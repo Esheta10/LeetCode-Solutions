@@ -39,4 +39,7 @@
 </ul>
 
 <p>&nbsp;</p>
+Explanation:
+When slow and fast meet, it’s clear that there is a cycle.
+Setting a new pointer start to the head and moving it along with slow (from the meeting point) guarantees that they will meet at the beginning of the cycle due to the equal distances they travel.
 <p><strong>Follow up:</strong> Can you solve it using <code>O(1)</code> (i.e. constant) memory?</p>
