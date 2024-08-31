@@ -26,10 +26,15 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
