@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Prefix Sum
@@ -77,4 +78,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
