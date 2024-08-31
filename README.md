@@ -40,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1603-running-sum-of-1d-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,4 +58,8 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
