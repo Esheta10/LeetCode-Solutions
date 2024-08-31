@@ -56,4 +56,5 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
