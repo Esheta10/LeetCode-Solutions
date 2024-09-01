@@ -47,6 +47,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1603-running-sum-of-1d-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Binary Search
 |  |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
