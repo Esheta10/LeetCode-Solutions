@@ -123,4 +123,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
