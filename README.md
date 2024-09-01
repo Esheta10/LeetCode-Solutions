@@ -72,6 +72,7 @@
 | [0009-palindrome-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Prefix Sum
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
