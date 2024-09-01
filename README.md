@@ -34,6 +34,7 @@
 | [0141-linked-list-cycle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Stack
@@ -62,6 +63,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1306-minimum-absolute-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
