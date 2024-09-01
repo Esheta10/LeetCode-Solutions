@@ -30,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
