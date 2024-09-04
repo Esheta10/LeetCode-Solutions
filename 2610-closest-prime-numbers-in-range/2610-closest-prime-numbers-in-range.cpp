@@ -13,7 +13,7 @@ public:
 
          int minDiff=INT_MAX;
          vector<int> result;
-         for(int i=0;i<primes.size()-1;++i)
+         for(int i=0;i<primes.size()-1;i++)
          {
                 int currDiff=primes[i+1]-primes[i];
                 if(currDiff<minDiff)
