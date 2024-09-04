@@ -86,6 +86,7 @@
 | [0319-bulb-switcher](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Prefix Sum
 |  |
 | ------- |
