@@ -8,7 +8,10 @@ public:
             if(num%i==0)
             {
                  divisors.insert(i);
-                 divisors.insert(num/i);
+                if(num/i!=i)
+                {
+                    divisors.insert(num/i);
+                }
             }
         }
         if(divisors.size()==4)
