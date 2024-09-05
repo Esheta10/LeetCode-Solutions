@@ -13,6 +13,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -70,6 +71,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
