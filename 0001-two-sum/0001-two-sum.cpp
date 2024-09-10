@@ -7,9 +7,9 @@ public:
         {
             int remaining=target-nums[i];
             if(mp.find(remaining)!=mp.end())
-                return {mp[remaining],i};
+                return {mp[remaining],i};//mp[remaining] gives index
             
-            mp[nums[i]]=i;
+            mp[nums[i]]=i;//store the number and its index in map
         }
         return {};
     }
