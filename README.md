@@ -48,6 +48,7 @@
 | [0242-valid-anagram](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -97,6 +98,7 @@
 | [0125-valid-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
@@ -167,6 +169,7 @@
 | [0242-valid-anagram](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1306-minimum-absolute-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
@@ -194,6 +197,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
