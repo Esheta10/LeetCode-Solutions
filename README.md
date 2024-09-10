@@ -42,6 +42,7 @@
 | [0013-roman-to-integer](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -62,6 +63,7 @@
 | [0075-sort-colors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -146,12 +148,14 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -183,4 +187,8 @@
 | ------- |
 | [0136-single-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
