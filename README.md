@@ -76,6 +76,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1284-four-divisors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1603-running-sum-of-1d-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
@@ -205,4 +207,13 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
