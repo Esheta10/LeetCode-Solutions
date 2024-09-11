@@ -1,7 +1,7 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        int XOR=0;
+       /* int XOR=0;
         for(char &ch:s)
         {
             XOR ^=ch;
@@ -10,6 +10,16 @@ public:
         {
             XOR ^=ch;
         }
-        return (char)XOR;
+        return (char)XOR;*/
+        unordered_map<char,int> mp;
+        for(char &ch:s)
+            mp[ch]++;
+        for(char &ch:t)
+        {
+            mp[ch]--;
+            if(mp[ch]<0)
+                return ch;
+        }
+        return 'x';
     }
 };
