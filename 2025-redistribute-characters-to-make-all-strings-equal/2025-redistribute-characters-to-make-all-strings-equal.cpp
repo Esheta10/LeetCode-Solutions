@@ -17,6 +17,7 @@ public:
                 return false;
         }
         return true;*/
+       /*APPROACH-2
         int n=words.size();
         int count[26]={0};
        for(string &word:words)
@@ -29,6 +30,18 @@ public:
             if(freq % n != 0)
                 return false;
         }
-        return true;
+        return true;*/
+        int n = words.size();
+        int count[26]={0};
+        for(string &word:words)
+        {
+            for(char &ch:word)
+                count[ch-'a']++;
+        }
+       auto lambda=[&](int freq)
+       {
+        return freq%n==0;
+       };
+        return all_of(begin(count),end(count),lambda);
     }
 };
