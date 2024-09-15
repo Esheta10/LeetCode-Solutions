@@ -7,16 +7,16 @@ public:
         int maxi=-1;
         while(i<=j)
         {
-            if(nums[i]==-nums[j])
+            if(-nums[i]==nums[j])
             {
                 maxi=max(maxi,nums[j]);
                 i++;
                 j--;
             }
-            else if(nums[i]<-nums[j])
-                i++;
-            else
+            else if(-nums[i]<nums[j])
                 j--;
+            else
+                i++;
         }
     return maxi;
     }
