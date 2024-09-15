@@ -1,7 +1,7 @@
 class Solution {
 public:
     int tribonacci(int n) {
-        if(n==0)
+     if(n==0)
             return 0;
         int a=0;
         int b=1;
@@ -15,5 +15,6 @@ public:
             c=temp;
         }
         return c;
+       
     }
 };
