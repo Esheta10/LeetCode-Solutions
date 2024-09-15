@@ -1,12 +1,13 @@
 class Solution {
 public:
     int fib(int n) {
-        if(n<=1)
-            return n;
-        int a=0,b=1;
-        for(int i=2;i<=n;++i)
+        const int MOD=1e9+7;
+        if(n==0) return 0;
+        long long a=0,b=1;
+        long long temp=0;
+        for(int i=2;i<=n;i++)
         {
-            int temp=a+b;
+            temp=(a+b)%MOD;
             a=b;
             b=temp;
         }
