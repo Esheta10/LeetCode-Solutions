@@ -95,6 +95,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0898-transpose-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -240,6 +241,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1019-squares-of-a-sorted-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -251,6 +253,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Matrix
