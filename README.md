@@ -99,6 +99,7 @@
 | [0485-max-consecutive-ones](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0898-transpose-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -131,6 +132,7 @@
 | [0268-missing-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2634-minimum-common-value](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 ## String
 |  |
