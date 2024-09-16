@@ -309,10 +309,12 @@
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -321,4 +323,5 @@
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 <!---LeetCode Topics End-->
