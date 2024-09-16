@@ -114,6 +114,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2756-buy-two-chocolates) |
@@ -262,6 +263,7 @@
 | [0898-transpose-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Brainteaser
 |  |
 | ------- |
