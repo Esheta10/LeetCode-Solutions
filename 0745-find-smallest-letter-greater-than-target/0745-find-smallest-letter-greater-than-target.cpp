@@ -1,7 +1,7 @@
 class Solution {
 public:
     char nextGreatestLetter(vector<char>& letters, char target) {
-        int n=letters.size();
+      /*  int n=letters.size();
         int l=0;
         int r=n-1;
         int pos=-1;
@@ -19,7 +19,12 @@ public:
         if(pos == -1)
             return letters[0];
 
-        return letters[pos];
+        return letters[pos];*/
+        int n=letters.size();
+        int idx=upper_bound(letters.begin(),letters.end(),target)-letters.begin();
+        if(idx==n)
+            return letters[0];
         
+        return letters[idx];
     }
 };
