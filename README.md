@@ -71,6 +71,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -279,6 +280,7 @@
 | [0506-relative-ranks](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 ## Matrix
 |  |
 | ------- |
@@ -349,4 +351,8 @@
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
+## Design
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
