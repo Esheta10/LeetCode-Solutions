@@ -7,9 +7,10 @@ public:
 
         unordered_map<int,long long> mp;
 
-        mp[arr[0]]=1; // Initialize each element as a tree by itself
+         mp[arr[0]]=1; // Initialize each element as a tree by itself
         for(int i=1;i<n;i++)
         {
+            mp[arr[i]]=1; // Initialize each element as a tree by itself
             long long count = 1;
             for(int j=0;j<i;j++)
             {
