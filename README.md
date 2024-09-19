@@ -63,6 +63,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0843-binary-trees-with-factors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0843-binary-trees-with-factors) |
 | [0876-hand-of-straights](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
+| [1044-find-common-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -118,6 +119,7 @@
 | [0898-transpose-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1044-find-common-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1284-four-divisors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
@@ -173,6 +175,7 @@
 | [0389-find-the-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1044-find-common-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1547-destination-city) |
