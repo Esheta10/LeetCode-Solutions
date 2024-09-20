@@ -124,6 +124,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0843-binary-trees-with-factors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0843-binary-trees-with-factors) |
 | [0876-hand-of-straights](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -361,6 +362,7 @@
 | [0455-assign-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-hand-of-straights](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2756-buy-two-chocolates](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2756-buy-two-chocolates) |
