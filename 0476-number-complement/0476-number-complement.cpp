@@ -5,7 +5,7 @@ public:
 
         for(int i=0;i<number_of_bits;i++)
         {
-            num ^= (1<<i);
+            num = num^(1<<i);
         }
         return num;
 
