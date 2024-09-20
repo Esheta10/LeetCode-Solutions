@@ -404,4 +404,8 @@
 | ------- |
 | [1217-relative-sort-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
