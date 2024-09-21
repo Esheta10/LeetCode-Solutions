@@ -77,6 +77,7 @@
 | [1619-path-crossing](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -145,6 +146,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1720-crawler-log-folder](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -200,6 +202,7 @@
 | [1720-crawler-log-folder](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -295,6 +298,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1635-number-of-good-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -381,6 +385,7 @@
 | [0268-missing-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
