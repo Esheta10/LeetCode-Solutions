@@ -15,6 +15,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -92,6 +93,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1720-crawler-log-folder](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -103,6 +105,7 @@
 | [0001-two-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -259,6 +262,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0843-binary-trees-with-factors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0843-binary-trees-with-factors) |
@@ -436,4 +440,8 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1916-find-center-of-star-graph) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
