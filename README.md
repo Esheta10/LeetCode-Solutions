@@ -145,6 +145,7 @@
 | [1044-find-common-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1284-four-divisors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -343,6 +344,7 @@
 | [0876-hand-of-straights](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [1019-squares-of-a-sorted-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1306-minimum-absolute-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -367,6 +369,7 @@
 | [0048-rotate-image](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
