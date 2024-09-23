@@ -114,6 +114,7 @@
 | [0042-trapping-rain-water](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -286,6 +287,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1642-water-bottles) |
@@ -359,6 +361,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
