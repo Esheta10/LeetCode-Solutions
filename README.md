@@ -143,6 +143,7 @@
 | [0645-set-mismatch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0777-toeplitz-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0777-toeplitz-matrix) |
 | [0843-binary-trees-with-factors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0843-binary-trees-with-factors) |
 | [0876-hand-of-straights](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0890-lemonade-change) |
@@ -385,6 +386,7 @@
 | [0048-rotate-image](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0777-toeplitz-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
