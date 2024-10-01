@@ -184,6 +184,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2342-minimum-average-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2342-minimum-average-difference) |
 | [2428-equal-row-and-column-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -280,6 +281,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [2342-minimum-average-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2342-minimum-average-difference) |
 ## Trie
 |  |
 | ------- |
