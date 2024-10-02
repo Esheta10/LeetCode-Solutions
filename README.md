@@ -187,6 +187,7 @@
 | [2342-minimum-average-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2342-minimum-average-difference) |
 | [2428-equal-row-and-column-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2756-buy-two-chocolates) |
@@ -201,6 +202,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2634-minimum-common-value](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 ## String
 |  |
@@ -282,6 +284,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2342-minimum-average-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2342-minimum-average-difference) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Trie
 |  |
 | ------- |
@@ -371,6 +374,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2756-buy-two-chocolates](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -422,6 +426,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2756-buy-two-chocolates](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2756-buy-two-chocolates) |
 | [3055-maximum-odd-binary-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
