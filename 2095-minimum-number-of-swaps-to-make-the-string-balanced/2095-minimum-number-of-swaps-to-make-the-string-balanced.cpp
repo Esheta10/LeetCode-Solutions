@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minSwaps(string s) {
-         stack<char> st;
+      stack<char> st;
         
         for(char &ch : s) {
             if(ch == '[')
