@@ -83,6 +83,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1547-destination-city](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1619-path-crossing](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1619-path-crossing) |
@@ -171,6 +172,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1547-destination-city](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1547-destination-city) |
@@ -442,6 +444,7 @@
 | [0876-hand-of-straights](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2032-largest-odd-number-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
