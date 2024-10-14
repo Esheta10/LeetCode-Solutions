@@ -32,6 +32,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -72,6 +73,7 @@
 | [0389-find-the-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0843-binary-trees-with-factors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0843-binary-trees-with-factors) |
@@ -241,6 +243,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0567-permutation-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1044-find-common-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1044-find-common-characters) |
@@ -268,6 +271,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
