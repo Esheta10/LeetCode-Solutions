@@ -251,6 +251,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1044-find-common-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1304-longest-happy-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1619-path-crossing) |
@@ -418,6 +419,7 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [1304-longest-happy-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -463,6 +465,7 @@
 | [0876-hand-of-straights](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1304-longest-happy-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2032-largest-odd-number-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
