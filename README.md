@@ -113,6 +113,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0937-online-stock-span](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [1720-crawler-log-folder](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -537,6 +538,7 @@
 ## Design
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 ## Counting Sort
 |  |
@@ -552,6 +554,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -560,4 +563,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
