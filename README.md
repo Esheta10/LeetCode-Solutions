@@ -94,6 +94,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1619-path-crossing](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -260,6 +261,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1619-path-crossing) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -561,6 +563,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
