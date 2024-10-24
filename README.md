@@ -110,6 +110,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
@@ -530,22 +531,26 @@
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Design
 |  |
 | ------- |
