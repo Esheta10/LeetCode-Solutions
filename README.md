@@ -189,6 +189,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1418-fair-distribution-of-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1418-fair-distribution-of-cookies) |
@@ -353,6 +354,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
@@ -457,6 +459,7 @@
 | [0777-toeplitz-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
