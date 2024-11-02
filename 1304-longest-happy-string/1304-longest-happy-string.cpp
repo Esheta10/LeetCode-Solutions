@@ -2,7 +2,8 @@ class Solution {
 public:
     typedef pair<int, char> P;
     string longestDiverseString(int a, int b, int c) {
-       priority_queue<P, vector<P>> pq; //max-heap
+        
+        priority_queue<P, vector<P>> pq; //max-heap
 
         if(a > 0) {
             pq.push({a, 'a'});
