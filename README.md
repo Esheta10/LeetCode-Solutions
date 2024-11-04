@@ -261,6 +261,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
