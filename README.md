@@ -105,6 +105,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -292,6 +293,7 @@
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
