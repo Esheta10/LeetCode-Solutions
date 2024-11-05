@@ -21,7 +21,7 @@ public:
                 i++;
             }
             
-            result += to_string(count) + string(1, say[i]);
+            result += to_string(count) + string(1, ch);
             
         }
         
