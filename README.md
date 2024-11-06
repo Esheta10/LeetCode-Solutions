@@ -103,6 +103,7 @@
 | [1635-number-of-good-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -298,6 +299,7 @@
 | [1720-crawler-log-folder](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -420,6 +422,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1635-number-of-good-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -461,6 +464,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
