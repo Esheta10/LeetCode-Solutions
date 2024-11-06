@@ -5,7 +5,7 @@ public:
         int n = needle.length();
         int i=0;
         int j=0;
-        for(int i=0;i<m;i++)
+        for(int i=0;i<=m-n;i++)
         {
            for(int j=0;j<n;j++)
            {
