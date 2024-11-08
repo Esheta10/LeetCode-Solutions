@@ -43,6 +43,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -135,6 +136,7 @@
 | [0042-trapping-rain-water](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0874-backspace-string-compare](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
@@ -306,6 +308,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0808-number-of-matching-subsequences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0935-orderly-queue](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0935-orderly-queue) |
@@ -428,6 +431,7 @@
 | [0054-spiral-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0874-backspace-string-compare](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
