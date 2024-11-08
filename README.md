@@ -344,6 +344,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2887-sort-vowels-in-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -513,6 +514,7 @@
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2756-buy-two-chocolates](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2756-buy-two-chocolates) |
+| [2887-sort-vowels-in-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
