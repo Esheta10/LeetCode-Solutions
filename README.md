@@ -247,6 +247,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2342-minimum-average-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2342-minimum-average-difference) |
 | [2428-equal-row-and-column-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -343,6 +344,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -386,6 +388,7 @@
 | [1925-count-nice-pairs-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
@@ -549,6 +552,7 @@
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Brainteaser
