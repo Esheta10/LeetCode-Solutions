@@ -56,6 +56,7 @@
 | [2634-minimum-common-value](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [3195-separate-black-and-white-balls](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -281,6 +282,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2634-minimum-common-value](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## String
 |  |
 | ------- |
@@ -360,6 +362,7 @@
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -711,12 +714,15 @@
 | [0459-repeated-substring-pattern](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Rolling Hash
 |  |
 | ------- |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Hash Function
 |  |
 | ------- |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 <!---LeetCode Topics End-->
