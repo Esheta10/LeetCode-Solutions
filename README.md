@@ -216,6 +216,7 @@
 | [1284-four-divisors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -526,6 +527,7 @@
 | [1253-sort-the-matrix-diagonally](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
