@@ -366,6 +366,7 @@
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Sliding Window
 |  |
 | ------- |
@@ -409,6 +410,7 @@
 | [3055-maximum-odd-binary-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3210-count-beautiful-substrings-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -490,6 +492,7 @@
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Sorting
 |  |
 | ------- |
