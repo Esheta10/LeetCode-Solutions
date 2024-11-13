@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
@@ -657,6 +658,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -674,6 +676,7 @@
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -696,6 +699,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -786,4 +790,8 @@
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
