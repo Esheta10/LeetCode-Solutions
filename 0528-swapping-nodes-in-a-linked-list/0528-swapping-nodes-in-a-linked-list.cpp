@@ -10,6 +10,8 @@
  */
 class Solution {
 public:
+//Approach-1 (Making use of length of LinkedList)
+/*
     int findLength(ListNode* head)
     {
         int l=0;
@@ -40,6 +42,27 @@ public:
             k_2--;
         }
         swap(temp1->val,temp2->val);
+        return head;*/
+
+        //Approach-2 (Using only One Pass)
+        ListNode* swapNodes(ListNode* head, int k) {
+            ListNode* p1=NULL;
+            ListNode* p2=NULL;
+
+            ListNode* temp=head;
+            while(temp)
+            {
+                if(p2!=NULL)
+                    p2=p2->next;
+                k--;
+                if(k==0)
+                {
+                    p1=temp;
+                    p2=head;
+                }
+                temp=temp->next;
+            }
+        swap(p1->val,p2->val);
         return head;
     }
 };
