@@ -8,6 +8,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
