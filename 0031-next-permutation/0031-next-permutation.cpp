@@ -2,31 +2,21 @@ class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
         int n = nums.size();
+        int i = n-2;
 
-        //first find the gola index
-        int gola_index=-1;
-
-        for(int i=n-1;i>0;i--)
+        while(i>=0 && nums[i]>=nums[i+1])
         {
-            if(nums[i]>nums[i-1])
-            {
-                gola_index=i-1;
-                break;
-            }
+            i--;
         }
-        if(gola_index != -1)
+        if(i>=0)
         {
-            int swap_index = gola_index;
-            for(int j=n-1;j>=gola_index+1;j--)
+            int j = n-1;
+            while(nums[j]<=nums[i])
             {
-                if(nums[j]>nums[gola_index])
-                {
-                    swap_index=j;
-                    break;
-                }
+                j--;
             }
-        swap(nums[gola_index],nums[swap_index]);
+            swap(nums[i],nums[j]);
         }
-        reverse(nums.begin()+gola_index+1,nums.end());
+        reverse(nums.begin()+i+1,nums.end());
     }
 };
