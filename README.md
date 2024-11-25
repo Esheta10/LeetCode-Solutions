@@ -285,6 +285,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1646-kth-missing-positive-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1720-crawler-log-folder](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -343,6 +344,7 @@
 | [0792-binary-search](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1646-kth-missing-positive-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2634-minimum-common-value](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
