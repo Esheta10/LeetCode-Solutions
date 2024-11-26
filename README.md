@@ -255,6 +255,7 @@
 | [0876-hand-of-straights](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
@@ -348,6 +349,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
+| [0907-koko-eating-bananas](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2294-minimum-time-to-complete-trips) |
