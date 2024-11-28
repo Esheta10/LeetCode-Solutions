@@ -1,23 +1,27 @@
 class Solution {
 public:
     vector<int> successfulPairs(vector<int>& spells, vector<int>& potions, long long success) {
-    // Sort the potions array
-    sort(potions.begin(), potions.end());
-    int m = potions.size();
-    vector<int> result;
+        int m = spells.size();
+        int n = potions.size();
 
-    // Iterate through each spell
-    for (int spell : spells) {
-        // Calculate the minimum required potion strength
-        long long required = (success + spell - 1) / spell; // Equivalent to ceil(success / spell)
-        
-        // Find the first potion that satisfies the condition using binary search
-        auto it = lower_bound(potions.begin(), potions.end(), required);
-        
-        // Calculate the number of successful pairs
-        result.push_back(potions.end() - it);
-    }
+        sort(potions.begin(),potions.end());
 
-    return result;
+        vector<int> answer;
+        int maxPotion=potions[n-1];
+
+        for(int i=0;i<m;i++)
+        {
+            int spell=spells[i];
+            long long minPotion = ceil((1.0*success)/spell);
+
+            if(minPotion > maxPotion)
+            {
+                answer.push_back(0);
+                continue;
+            }
+            int index = lower_bound(begin(potions),end(potions),minPotion)-begin(potions);
+            answer.push_back(n-index);
+        }
+        return answer;
     }
 };
