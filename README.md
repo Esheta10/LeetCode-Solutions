@@ -351,6 +351,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0792-binary-search) |
@@ -478,6 +479,7 @@
 | [0319-bulb-switcher](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
+| [0441-arranging-coins](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0670-maximum-swap) |
