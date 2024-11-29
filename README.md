@@ -325,6 +325,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2530-minimize-maximum-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2530-minimize-maximum-of-array) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -365,6 +366,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2530-minimize-maximum-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2530-minimize-maximum-of-array) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2634-minimum-common-value](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -520,6 +522,7 @@
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2530-minimize-maximum-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2530-minimize-maximum-of-array) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3210-count-beautiful-substrings-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 ## Trie
 |  |
@@ -651,6 +654,7 @@
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2756-buy-two-chocolates](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2756-buy-two-chocolates) |
 | [2887-sort-vowels-in-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -725,6 +729,7 @@
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2530-minimize-maximum-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2530-minimize-maximum-of-array) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
