@@ -759,6 +759,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1418-fair-distribution-of-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1418-fair-distribution-of-cookies) |
@@ -845,6 +846,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [1418-fair-distribution-of-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
