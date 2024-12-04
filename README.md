@@ -497,6 +497,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0670-maximum-swap) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0935-orderly-queue](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -773,6 +774,7 @@
 | [0461-hamming-distance](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1418-fair-distribution-of-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
