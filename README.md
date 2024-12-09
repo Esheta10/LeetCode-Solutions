@@ -344,6 +344,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3427-special-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
@@ -383,6 +384,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3427-special-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 ## String
 |  |
 | ------- |
@@ -541,6 +543,7 @@
 | [2530-minimize-maximum-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3210-count-beautiful-substrings-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
+| [3427-special-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 ## Trie
 |  |
 | ------- |
