@@ -177,6 +177,7 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
@@ -383,6 +384,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3427-special-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 ## String
@@ -470,6 +472,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3210-count-beautiful-substrings-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
@@ -482,6 +485,7 @@
 | [0567-permutation-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Math
 |  |
 | ------- |
@@ -627,6 +631,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Sorting
