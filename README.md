@@ -230,6 +230,7 @@
 | [0054-spiral-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -591,6 +592,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0338-counting-bits) |
@@ -760,6 +762,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0777-toeplitz-matrix) |
