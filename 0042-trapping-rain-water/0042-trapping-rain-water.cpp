@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> getLeftMax(vector<int>& height,int n)
+    vector<int> getLeftMax(vector<int> height,int n)
     {
         vector<int> leftMax(n);
         leftMax[0]=height[0];
@@ -10,7 +10,7 @@ public:
         }
         return leftMax;
     }
-    vector<int> getRightMax(vector<int>&height,int n)
+    vector<int> getRightMax(vector<int> height,int n)
     {
         vector<int> rightMax(n);
         rightMax[n-1]=height[n-1];
@@ -21,15 +21,15 @@ public:
         return rightMax;
     }
     int trap(vector<int>& height) {
-        int n = height.size();
-        if(n==0 || n==1)
+        int n=height.size();
+        if(n==1 || n==0)
             return 0;
-        vector<int> leftMax=getLeftMax(height,n);
-        vector<int> rightMax=getRightMax(height,n);
+        vector<int> leftMax = getLeftMax(height,n);
+        vector<int> rightMax = getRightMax(height,n);
         int sum=0;
         for(int i=0;i<n;i++)
         {
-            sum += min(leftMax[i],rightMax[i]) - height[i];
+            sum += min(leftMax[i],rightMax[i])-height[i];
         }
         return sum;
     }
