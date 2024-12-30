@@ -299,6 +299,7 @@
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1418-fair-distribution-of-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1418-fair-distribution-of-cookies) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1547-destination-city](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1547-destination-city) |
@@ -607,6 +608,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1418-fair-distribution-of-cookies) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
