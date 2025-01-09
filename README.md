@@ -349,6 +349,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2342-minimum-average-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
@@ -506,6 +507,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -1006,6 +1008,7 @@
 | [0459-repeated-substring-pattern](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Rolling Hash
