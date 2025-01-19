@@ -252,6 +252,7 @@
 | [0189-rotate-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0283-move-zeroes) |
