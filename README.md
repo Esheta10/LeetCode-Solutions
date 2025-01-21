@@ -347,6 +347,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2164-two-best-non-overlapping-events](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -611,6 +612,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2044-number-of-wonderful-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2044-number-of-wonderful-substrings) |
+| [2145-grid-game](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2145-grid-game) |
 | [2342-minimum-average-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -827,6 +829,7 @@
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2454-largest-local-values-in-a-matrix) |
