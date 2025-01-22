@@ -140,6 +140,7 @@
 | [0807-custom-sort-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
 | [0843-binary-trees-with-factors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0843-binary-trees-with-factors) |
+| [0870-magic-squares-in-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0889-buddy-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -280,6 +281,7 @@
 | [0792-binary-search](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
 | [0843-binary-trees-with-factors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0843-binary-trees-with-factors) |
+| [0870-magic-squares-in-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
@@ -574,6 +576,7 @@
 | [0670-maximum-swap](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0790-global-and-local-inversions](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0790-global-and-local-inversions) |
+| [0870-magic-squares-in-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0935-orderly-queue](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -817,6 +820,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0777-toeplitz-matrix) |
+| [0870-magic-squares-in-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0891-score-after-flipping-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
