@@ -283,6 +283,7 @@
 | [0792-binary-search](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
 | [0843-binary-trees-with-factors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0843-binary-trees-with-factors) |
+| [0854-making-a-large-island](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0890-lemonade-change) |
@@ -829,6 +830,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0777-toeplitz-matrix) |
+| [0854-making-a-large-island](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0891-score-after-flipping-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
@@ -974,6 +976,7 @@
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0684-redundant-connection](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -988,6 +991,7 @@
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0684-redundant-connection](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -1116,6 +1120,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
