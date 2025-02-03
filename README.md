@@ -400,6 +400,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
