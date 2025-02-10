@@ -227,6 +227,7 @@
 | [2573-remove-nodes-from-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3447-clear-digits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Array
 |  |
 | ------- |
@@ -559,6 +560,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3447-clear-digits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sliding Window
 |  |
@@ -709,6 +711,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
