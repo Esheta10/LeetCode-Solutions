@@ -221,6 +221,7 @@
 | [1720-crawler-log-folder](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -536,6 +537,7 @@
 | [1944-truncate-sentence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2044-number-of-wonderful-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2044-number-of-wonderful-substrings) |
@@ -700,6 +702,7 @@
 | [1642-water-bottles](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1806-count-of-matches-in-tournament](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
