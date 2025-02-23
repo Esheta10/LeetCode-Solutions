@@ -145,6 +145,7 @@
 | [0876-hand-of-straights](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0889-buddy-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
@@ -299,6 +300,7 @@
 | [0891-score-after-flipping-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -983,6 +985,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
@@ -1003,6 +1006,7 @@
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -1046,6 +1050,7 @@
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
