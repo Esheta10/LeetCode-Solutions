@@ -1,23 +1,25 @@
 class Solution {
 public:
-    int maxAbsoluteSum(vector<int>& nums) {
-        int n=nums.size();
+     int maxAbsoluteSum(vector<int>& nums) {
+        int n = nums.size();
 
-        int currentMax=nums[0];
-        int maxSum=nums[0];
+        int currSubSum = nums[0];
+        int maxSubSum = nums[0];
 
-        int currentMin=nums[0];
-        int minSum=nums[0];
-
-        for(int i=1;i<n;i++)
-        {
-         
-            currentMax = max(currentMax+nums[i],nums[i]);
-            maxSum = max(maxSum, currentMax);
-
-            currentMin=min(currentMin+nums[i],nums[i]);
-            minSum = min(minSum,currentMin);
+        //Kadane's Algo for findig max subarray sum
+        for(int i = 1; i < n; i++) {
+            currSubSum = max(nums[i], currSubSum + nums[i]);
+            maxSubSum = max(maxSubSum, currSubSum);
         }
-        return max(abs(maxSum),abs(minSum));
+
+        //Kadane's Algo for findig min subarray sum
+        int minSubSum = nums[0];
+        currSubSum = nums[0];
+        for(int i = 1; i < n; i++) {
+            currSubSum = min(nums[i], currSubSum + nums[i]);
+            minSubSum = min(minSubSum, currSubSum);
+        }
+
+        return max(maxSubSum, abs(minSubSum));
     }
 };
