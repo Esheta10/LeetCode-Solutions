@@ -203,6 +203,7 @@
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3210-count-beautiful-substrings-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -424,6 +425,7 @@
 | [2868-continuous-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -650,6 +652,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3055-maximum-odd-binary-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3210-count-beautiful-substrings-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -907,6 +910,7 @@
 | [2454-largest-local-values-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Brainteaser
 |  |
 | ------- |
