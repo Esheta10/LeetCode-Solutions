@@ -439,6 +439,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3643-zero-array-transformation-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -485,6 +486,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3427-special-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## String
 |  |
 | ------- |
@@ -689,6 +691,7 @@
 | [2571-find-the-pivot-integer](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2571-find-the-pivot-integer) |
 | [3210-count-beautiful-substrings-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3427-special-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Trie
 |  |
 | ------- |
