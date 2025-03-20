@@ -1,7 +1,7 @@
 class Solution {
 public:
     int longestNiceSubarray(vector<int>& nums) {
-        int n = nums.size();
+     int n = nums.size();
 
         int result = 0;
 
