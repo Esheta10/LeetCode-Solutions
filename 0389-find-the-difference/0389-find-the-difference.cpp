@@ -30,12 +30,23 @@ public:
         }
         return 'x';
     */
+    /*-----APPROACH-3-----
     int sum_s=0,sum_t=0;
     for(char &ch:s)
         sum_s += ch;
     for(char &ch:t)
         sum_t += ch;
 
-    return (char)(sum_t-sum_s);
+    return (char)(sum_t-sum_s); */
+    int XOR=0;
+    for(char &ch:s)
+    {
+        XOR^=ch;
+    }
+    for(char &ch:t)
+    {
+        XOR^=ch;
+    }
+    return (char)(XOR);
     }
 };
