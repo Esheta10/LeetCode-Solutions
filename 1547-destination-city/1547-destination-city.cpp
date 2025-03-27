@@ -4,15 +4,13 @@ public:
         unordered_map<string,int> mp;
         for(auto &path:paths)
         {
-            string source = path[0];
-
+            string source=path[0];
             mp[source]=1;
         }
         for(auto &path:paths)
         {
-            string dest = path[1];
-
-            if(mp[dest] != 1)
+            string dest=path[1];
+            if(mp[dest]!=1)
                 return dest;
         }
         return "";
