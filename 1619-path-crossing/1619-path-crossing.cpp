@@ -4,10 +4,8 @@ public:
         unordered_set<string> st;
         int x=0;
         int y=0;
-
-        string key = to_string(x)+"_"+to_string(y);
+        string key=to_string(x)+"_"+to_string(y);
         st.insert(key);
-
         for(char &ch:path)
         {
             if(ch=='E')
@@ -20,10 +18,10 @@ public:
                 y--;
 
             key=to_string(x)+"_"+to_string(y);
-            if(st.find(key)!=st.end())
-                return true;
-            
-            st.insert(key);
+        if(st.find(key)!=st.end())
+            return true;
+
+         st.insert(key);
         }
         return false;
     }
