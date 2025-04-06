@@ -448,6 +448,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -890,6 +891,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3430-count-days-without-meetings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
