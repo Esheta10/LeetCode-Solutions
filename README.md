@@ -681,6 +681,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3055-maximum-odd-binary-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3210-count-beautiful-substrings-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
@@ -1187,6 +1188,7 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2998-count-symmetric-integers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3210-count-beautiful-substrings-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 ## Data Stream
 |  |
