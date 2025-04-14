@@ -363,6 +363,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
+| [1656-count-good-triplets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
@@ -1189,6 +1190,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3210-count-beautiful-substrings-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
