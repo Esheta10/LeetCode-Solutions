@@ -400,6 +400,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2294-minimum-time-to-complete-trips) |
