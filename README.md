@@ -142,6 +142,7 @@
 | [0645-set-mismatch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0797-rabbits-in-forest](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
 | [0843-binary-trees-with-factors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0843-binary-trees-with-factors) |
@@ -306,6 +307,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0790-global-and-local-inversions](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0790-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
 | [0843-binary-trees-with-factors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0843-binary-trees-with-factors) |
 | [0854-making-a-large-island](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
@@ -658,6 +660,7 @@
 | [0670-maximum-swap](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0790-global-and-local-inversions](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0790-global-and-local-inversions) |
+| [0797-rabbits-in-forest](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0935-orderly-queue](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
@@ -985,6 +988,7 @@
 | [0670-maximum-swap](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
