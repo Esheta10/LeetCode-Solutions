@@ -1,53 +1,31 @@
 class Solution {
 public:
     int countStudents(vector<int>& students, vector<int>& sandwiches) {
-      /*APPROACH-1  int n=students.size();
-        stack<int> st;
-        queue<int> q;
-        int count=0;
-       // Initialize stack and queue
-       for(int i=0;i<n;i++)
-        {
-            st.push(sandwiches[n-i-1]);// Fill stack with sandwiches
-            q.push(students[i]);// Fill queue with students
-        }
-        while(!st.empty() && !q.empty())  
-        {
-                if(st.top()==q.front())
-                {
-                    st.pop();
-                    q.pop();
-                    count=0;// Reset count when a sandwich is eaten
-                }
-                else
-                {
-                    int temp=q.front();
-                    q.pop();
-                    q.push(temp);//adds the student to the back of the queue.
-                    count++;
+        int n=sandwiches.size();
+        int s_0=0;
+        int s_1=0;
 
-                    if(count==q.size())// No student can eat the current sandwich
-                        break;
-                }
-
-        }
-    
-        return st.size();// Return the number of uneaten sandwiches*/
-        int n = students.size();
-        int arr[2]={0};
-        //arr[0]->count of students liking 0 sandwich
-        //arr[1]->count of students liking 1 sandwich
-        for(int &stud:students)
+        for(int s : students)
         {
-            arr[stud]++;
+            if(s==0)
+                s_0++;
+            else
+                s_1++;
         }
-        for(int i=0;i<n;i++)
+        for(int i=0;i<sandwiches.size();i++)
         {
-            int sand=sandwiches[i];
-            if(arr[sand]==0)
-                return n-i;
-
-            arr[sand]--;
+            if(sandwiches[i]==0)
+            {
+                if(s_0==0)
+                    return n-i;
+                s_0--;
+            }
+            else
+            {
+                if(s_1==0)
+                    return n-i;
+                s_1--;
+            }
 
         }
         return 0;
