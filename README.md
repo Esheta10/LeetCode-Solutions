@@ -566,6 +566,7 @@
 | [0567-permutation-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0648-replace-words](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0648-replace-words) |
+| [0649-dota2-senate](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0807-custom-sort-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
@@ -1028,6 +1029,7 @@
 | [0455-assign-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0649-dota2-senate](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1119,6 +1121,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
