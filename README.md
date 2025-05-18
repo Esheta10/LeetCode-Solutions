@@ -795,6 +795,7 @@
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2164-two-best-non-overlapping-events](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2530-minimize-maximum-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
