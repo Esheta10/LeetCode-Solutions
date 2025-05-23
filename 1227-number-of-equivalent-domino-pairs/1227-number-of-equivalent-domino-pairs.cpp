@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int numEquivDominoPairs(vector<vector<int>>& dominoes) {
+     int numEquivDominoPairs(vector<vector<int>>& dominoes) {
         map<pair<int, int>, int> mp;
 
         for(auto &d : dominoes) {
