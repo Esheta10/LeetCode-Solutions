@@ -2,22 +2,19 @@ class Solution {
 public:
     int findMaxK(vector<int>& nums) {
         sort(nums.begin(),nums.end());
-        int i=0;
-        int j=nums.size()-1;
-        int maxi=-1;
-        while(i<=j)
+        int result = -1;
+        int i = 0;
+        int j = nums.size()-1;
+        while(i<j)
         {
             if(-nums[i]==nums[j])
-            {
-                maxi=max(maxi,nums[j]);
-                i++;
+                return nums[j];
+
+            if(-nums[i] < nums[j])
                 j--;
-            }
-            else if(-nums[i]<nums[j])
-                j--;
-            else
+            else 
                 i++;
         }
-    return maxi;
+        return result;
     }
 };
