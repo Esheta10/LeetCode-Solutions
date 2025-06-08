@@ -17,8 +17,9 @@ public:
         int a = evaluateTree(root->left);
         int b = evaluateTree(root->right);
 
-        if(root->val==2)
+        if(root->val == 2)
             return a|b;
-        return a&b;
+        
+        return a & b;
     }
 };
