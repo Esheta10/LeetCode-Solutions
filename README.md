@@ -282,6 +282,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -1104,6 +1105,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
@@ -1277,6 +1279,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [1418-fair-distribution-of-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
