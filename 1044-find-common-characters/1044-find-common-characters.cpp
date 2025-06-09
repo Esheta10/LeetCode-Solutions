@@ -1,38 +1,24 @@
 class Solution {
 public:
-    void fillCountArray(string &word,int count[26])
-    {
-        for(char &ch:word)
-        {
-            count[ch-'a']++;
-        }
-    }
     vector<string> commonChars(vector<string>& words) {
-    int n=words.size();
-    
-    int count[26]={0};
+        vector<int> minFreq(26,INT_MAX);
 
-    fillCountArray(words[0],count);
-
-        for(int i=1;i<n;i++)
+        for(const string &word:words)
         {
-            int temp[26]={0};
-            fillCountArray(words[i],temp);
+            vector<int> freq(26,0);
+            for(char ch:word)
+                    freq[ch-'a']++;
+            
             for(int i=0;i<26;i++)
             {
-                if(count[i]!=temp[i])
-                    count[i]=min(count[i],temp[i]);
+                minFreq[i] = min(minFreq[i],freq[i]);
             }
         }
         vector<string> result;
         for(int i=0;i<26;i++)
         {
-            if(count[i]!=0)
-            {
-                int c = count[i];
-                while(c--)
-                    result.push_back(string(1,i+'a'));
-            }
+            while(minFreq[i]--)
+                result.push_back(string(1,'a'+i));
         }
         return result;
     }
