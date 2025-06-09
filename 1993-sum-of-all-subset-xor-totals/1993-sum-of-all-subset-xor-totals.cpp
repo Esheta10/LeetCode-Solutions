@@ -1,5 +1,7 @@
 class Solution {
 public:
+    //Approach-1
+    /*
     int solve(vector<int>& nums, int i,int Xor)
     {
         if(i==nums.size())
@@ -11,6 +13,14 @@ public:
         return include + exclude;
     }
     int subsetXORSum(vector<int>& nums) {
-        return solve(nums,0,0);
+        return solve(nums,0,0);*/
+    int subsetXORSum(vector<int>& nums) {
+        int n = nums.size();
+        int result=0;
+        for(int num:nums)
+        {
+            result |= num;
+        }
+        return result<<(n-1);
     }
 };
