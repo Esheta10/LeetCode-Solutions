@@ -14,7 +14,7 @@ public:
         return moves;
         */
         //APPROACH-2
-        int n = students.size();
+        //int n = students.size();
         vector<int> position_stud(101,0);
         vector<int> position_seat(101,0);
 
@@ -39,7 +39,7 @@ public:
                 moves += abs(i-j);
                 position_stud[i]--;
                 position_seat[j]--;
-                n--;
+               // n--;
             }
         }
         return moves;
