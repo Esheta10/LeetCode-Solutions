@@ -4,12 +4,12 @@ public:
         sort(seats.begin(),seats.end());
         sort(students.begin(),students.end());
 
-        int moves=0;
-        int n=seats.size();
+        int n = seats.size();
+        int moves = 0;
         for(int i=0;i<n;i++)
         {
             moves += abs(seats[i]-students[i]);
         }
-         return moves;
+        return moves;
     }
 };
