@@ -6,8 +6,8 @@ public:
         {
             consumed += numExchange;
             numBottles -= numExchange;
-            numBottles +=1;
+            numBottles += 1;
         }
-        return numBottles+consumed;
+        return consumed + numBottles;
     }
 };
