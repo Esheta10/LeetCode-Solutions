@@ -1,16 +1,31 @@
 class Solution {
 public:
     int minLength(string s) {
-        while (s.find("AB") != -1 || s.find("CD") != -1) {
-            if (s.find("AB") != -1) {
-                
-                s.erase(s.find("AB"), 2);
-            } else if (s.find("CD") != -1) {
-                
-                s.erase(s.find("CD"), 2);
+        int i=0;//write
+        int j=1;//read
+
+        int n = s.length();
+
+        while(j<n)
+        {
+            if(i<0)
+            {
+                i++;
+                s[i]=s[j];
+                j++;
+            }
+            else if((s[i]=='A' && s[j]=='B') || (s[i]=='C' && s[j]=='D'))
+            {
+                i--;
+                j++;
+            }
+            else
+            {
+                i++;
+                s[i]=s[j];
+                j++;
             }
         }
-
-        return s.length();
+        return i+1;
     }
 };
