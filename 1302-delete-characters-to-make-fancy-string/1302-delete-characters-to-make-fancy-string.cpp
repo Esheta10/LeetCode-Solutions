@@ -1,7 +1,9 @@
 class Solution {
 public:
     string makeFancyString(string s) {
-        
+        //Approach (Simple straight forward traversal)
+        //T.C : O(n)
+        //S.C : O(1)
         int n = s.length();
 
         string result = "";
