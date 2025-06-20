@@ -142,6 +142,7 @@
 | [0389-find-the-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -240,6 +241,7 @@
 | [0234-palindrome-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0937-online-stock-span) |
@@ -309,6 +311,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1285,6 +1288,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
