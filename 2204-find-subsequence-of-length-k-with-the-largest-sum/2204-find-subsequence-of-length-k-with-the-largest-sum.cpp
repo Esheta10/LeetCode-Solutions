@@ -1,23 +1,31 @@
+//Approach-1 (Using sorting with indices)
+//T.C : O(nlogn)
+//S.C : O(1)
 class Solution {
 public:
     vector<int> maxSubsequence(vector<int>& nums, int k) {
-        vector<pair<int,int>> indexed_nums;
-        for(int i=0;i<nums.size();++i)
-        {
-            indexed_nums.push_back({nums[i],i});
-        }
-        sort(indexed_nums.begin(),indexed_nums.end(),greater<pair<int,int>>());
- vector<pair<int,int>> top_k_elements(indexed_nums.begin(),indexed_nums.begin()+k);
- sort(top_k_elements.begin(),top_k_elements.end(),[](const pair<int,int>&a,const pair<int,int>&b)
- {
-    return a.second<b.second;
- });
- vector<int> result;
- for(const auto& p:top_k_elements)
- {
-    result.push_back(p.first);
- }
- return result;
-    }
+        int n = nums.size();
+        if (k == n)
+            return nums;
 
+        vector<pair<int, int>> vec(n);
+        for(int i = 0; i < n; i++) {
+            vec[i] = make_pair(i, nums[i]);
+        }
+
+        auto lambda = [](auto &p1, auto& p2) {
+            return p1.second > p2.second;
+        };
+
+        sort(begin(vec), end(vec), lambda);
+
+        sort(begin(vec), begin(vec)+k);
+
+        vector<int> result;
+        for(int i = 0; i < k; i++) {
+            result.push_back(vec[i].second);
+        }
+
+        return result;
+    }
 };
