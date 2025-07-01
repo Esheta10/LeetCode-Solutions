@@ -1,6 +1,9 @@
+//Approach-1 (Khandani Backtracking remplate - storing all possible strings)
+//T.C : O(n * ((n/k)!))
+//S.C : O(n/k)
 class Solution {
 public:
-     string result = "";
+    string result = "";
 
     bool isSubsequence(string &s, string& sub, int k) {
         int i = 0;
