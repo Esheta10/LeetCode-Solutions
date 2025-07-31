@@ -347,6 +347,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0948-sort-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -848,6 +849,7 @@
 | [0843-binary-trees-with-factors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0843-binary-trees-with-factors) |
 | [0868-push-dominoes](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
@@ -1191,6 +1193,7 @@
 | [0645-set-mismatch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0891-score-after-flipping-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1418-fair-distribution-of-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
