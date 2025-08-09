@@ -162,6 +162,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
@@ -348,6 +349,7 @@
 | [0907-koko-eating-bananas](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -711,6 +713,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
