@@ -473,6 +473,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2529-range-product-queries-of-powers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2530-minimize-maximum-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -825,6 +826,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2529-range-product-queries-of-powers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2530-minimize-maximum-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2571-find-the-pivot-integer](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2571-find-the-pivot-integer) |
@@ -1223,6 +1225,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2509-minimize-xor](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
