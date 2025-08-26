@@ -129,6 +129,7 @@
 | [0041-first-missing-positive](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -305,6 +306,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -608,6 +610,7 @@
 | [0067-add-binary](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0179-largest-number) |
@@ -854,6 +857,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0648-replace-words](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0808-number-of-matching-subsequences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
@@ -869,6 +873,7 @@
 | [0118-pascals-triangle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0338-counting-bits) |
@@ -905,6 +910,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
