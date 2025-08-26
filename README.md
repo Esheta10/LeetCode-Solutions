@@ -611,6 +611,7 @@
 | [0165-compare-version-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -1428,6 +1429,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -1437,11 +1439,13 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
