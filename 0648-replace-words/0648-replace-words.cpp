@@ -1,11 +1,12 @@
 class Solution {
 public:
-    string findroot(string &word,unordered_set<string>& st)
+    string findRoot(string &word, unordered_set<string>& st)
     {
-        for(int l=0;l<word.length();l++)
+        for(int l=1; l <= word.length(); l++)
         {
             string root = word.substr(0,l);
-            if(st.contains(root))
+
+            if(st.count(root))
                 return root;
         }
         return word;
@@ -17,9 +18,9 @@ public:
         string word;
         string result;
 
-        while(getline(ss,word,' '))
+        while (getline(ss,word,' '))
         {
-            result += findroot(word,st) + " ";
+            result += findRoot(word,st) + " ";
         }
         result.pop_back();
         return result;
