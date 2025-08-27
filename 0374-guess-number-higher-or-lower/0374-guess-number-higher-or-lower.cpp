@@ -10,18 +10,19 @@
 class Solution {
 public:
     int guessNumber(int n) {
-        int left=1,right=n;
-        while(left<=right)
+        int low=1,high=n;
+
+        while(low<=high)
         {
-            int mid=left+(right-left)/2;
-            int res=guess(mid);
+            int mid = low + (high-low)/2;
+            int res = guess(mid);
 
             if(res==0)
                 return mid;
-            else if(res==1)
-                left=mid+1;
+            else if(res<0)
+                high=mid-1;//my number is lower
             else
-                right=mid-1;
+                low=mid+1;//my number is higher
         }
         return -1;
     }
