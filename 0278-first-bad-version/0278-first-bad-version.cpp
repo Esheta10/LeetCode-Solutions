@@ -4,21 +4,19 @@
 class Solution {
 public:
     int firstBadVersion(int n) {
-        int left=1;
-        int right=n;
-        while(left<right)
+        int low = 1, high = n;
+        int ans=n;
+        while (low <= high)
         {
-            int mid=left+(right-left)/2;
-
-            if (isBadVersion(mid))
+            int mid = low + (high-low)/2;
+            if(isBadVersion(mid))
             {
-                right=mid; // first bad version is at mid or before
+                ans=mid;
+                high=mid-1;
             }
             else
-            {
-                left=mid+1; // first bad version is after mid
-            }
+                low=mid+1;
         }
-        return left;// left will point to the first bad version
+        return ans;
     }
 };
