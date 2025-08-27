@@ -13,8 +13,8 @@ public:
     ListNode* reverseList(ListNode* head) {
         if(head==NULL || head->next==NULL)
             return head;
-        
-        ListNode* last =  reverseList(head->next);
+
+        ListNode* last = reverseList(head->next);
         head->next->next = head;
         head->next = NULL;
         return last;
