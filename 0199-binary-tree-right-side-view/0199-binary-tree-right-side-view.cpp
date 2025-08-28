@@ -11,31 +11,48 @@
  */
 class Solution {
 public:
-    vector<int> rightSideView(TreeNode* root) {
+    void preOrder(TreeNode* root, int level, vector<int>& result)
+    {
         if(root == NULL)
-            return {};
+            return ;
 
+        if(result.size() < level)
+            result.push_back(root->val);
+
+        preOrder(root->right,level+1,result);
+        preOrder(root->left,level+1,result);
+    }
+    vector<int> rightSideView(TreeNode* root) {
+        //LEVEL ORDER TRAVERSAL
+        // if(root == NULL)
+        //     return {};
+
+        // vector<int> result;
+        // queue<TreeNode*> que;
+        // que.push(root);
+
+        // while(!que.empty())
+        // {
+        //     int n = que.size();
+        //     TreeNode* node = NULL;
+
+        //     while(n--)
+        //     {
+        //         node = que.front();
+        //         que.pop();
+
+        //         if(node->left!=NULL)
+        //             que.push(node->left);
+        //         if(node->right!=NULL)
+        //             que.push(node->right);
+        //     }
+        //     result.push_back(node->val);
+        // }
+        // return result;
+
+        // DFS - PRE-ORDER TRAVERSAL
         vector<int> result;
-        queue<TreeNode*> que;
-        que.push(root);
-
-        while(!que.empty())
-        {
-            int n = que.size();
-            TreeNode* node = NULL;
-
-            while(n--)
-            {
-                node = que.front();
-                que.pop();
-
-                if(node->left!=NULL)
-                    que.push(node->left);
-                if(node->right!=NULL)
-                    que.push(node->right);
-            }
-            result.push_back(node->val);
-        }
+        preOrder(root,1,result);
         return result;
     }
 };
