@@ -4,14 +4,14 @@ public:
     int t[50001];
     int getNextIndex(vector<vector<int>>& array,int l,int currentJobEnd)
     {
-        int r = n-1;
-        int result = n;
+        int r=n-1;
+        int result=n;
         while(l<=r)
         {
-            int mid = l + (r-l)/2;
+            int mid = l+(r-l)/2;
             if(array[mid][0] >= currentJobEnd)
             {
-                result=mid;
+                result = mid;
                 r=mid-1;
             }
             else
@@ -24,9 +24,8 @@ public:
         if(i>=n)
             return 0;
 
-        if(t[i]!= -1)
+        if(t[i] != -1)
             return t[i];
-
         int next = getNextIndex(array,i+1,array[i][1]);
         int taken = array[i][2] + solve(array,next);
         int notTaken = solve(array,i+1);
@@ -34,21 +33,20 @@ public:
         return t[i] = max(taken,notTaken);
     }
     int jobScheduling(vector<int>& startTime, vector<int>& endTime, vector<int>& profit) {
-        n = startTime.size();
-        vector<vector<int>> array(n,vector<int>(3,0));
-
+        n=startTime.size();
         memset(t,-1,sizeof(t));
-
+        vector<vector<int>> array(n,vector<int>(3,0));
+    
         for(int i=0;i<n;i++)
         {
             array[i][0] = startTime[i];
             array[i][1] = endTime[i];
             array[i][2] = profit[i];
         }
-        //current job ka ending point <= next job starting point
-        auto comp = [&](auto &vec1, auto &vec2)
+
+        auto comp = [&](auto& vec1,auto& vec2)
         {
-            return vec1[0] < vec2[0];
+            return vec1[0]<vec2[0];
         };
         sort(array.begin(),array.end(),comp);
         return solve(array,0);
