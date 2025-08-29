@@ -322,6 +322,7 @@
 | [0283-move-zeroes](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0334-increasing-triplet-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -883,6 +884,7 @@
 | [0139-word-break](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0338-counting-bits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0392-is-subsequence) |
