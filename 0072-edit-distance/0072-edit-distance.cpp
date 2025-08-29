@@ -1,28 +1,27 @@
 class Solution {
 public:
     int m,n;
-    int t[501][501];
-    int solve(string& word1,string& word2,int i,int j)
+    int t[501][502];
+    int solve(string& word1,string& word2, int i,int j)
     {
         if(i==m)
-            return n-j; // insert from word2
+            return n-j;
 
         if(j==n)
-            return m-i; // delete from word1
+            return m-i;
 
         if(t[i][j] != -1)
             return t[i][j];
-        if(word1[i] == word2[j])
-        {
-            return t[i][j]=solve(word1,word2,i+1,j+1);
-        }
+        if(word1[i]==word2[j])
+            return t[i][j] = solve(word1,word2,i+1,j+1);
+        
         else
         {
             int insertC = 1 + solve(word1,word2,i,j+1);
             int deleteC = 1 + solve(word1,word2,i+1,j);
             int replaceC = 1 + solve(word1,word2,i+1,j+1);
 
-            return t[i][j]=min({insertC,deleteC,replaceC});
+            return t[i][j] = min({insertC,deleteC,replaceC});
         }
         return -1;
     }
