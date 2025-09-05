@@ -1169,6 +1169,7 @@
 | ------- |
 | [0319-bulb-switcher](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Database
 |  |
 | ------- |
@@ -1276,6 +1277,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
@@ -1459,6 +1461,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3210-count-beautiful-substrings-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
