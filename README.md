@@ -199,6 +199,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -431,6 +432,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1813-maximum-erasure-value](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -1204,6 +1206,7 @@
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
