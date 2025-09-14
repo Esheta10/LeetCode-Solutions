@@ -168,6 +168,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1044-find-common-characters) |
@@ -370,6 +371,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
+| [1006-vowel-spellchecker](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -661,6 +663,7 @@
 | [0935-orderly-queue](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0935-orderly-queue) |
 | [0952-word-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
+| [1006-vowel-spellchecker](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
