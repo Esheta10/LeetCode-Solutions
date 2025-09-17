@@ -274,6 +274,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -476,6 +477,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2294-minimum-time-to-complete-trips) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2342-minimum-average-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2342-minimum-average-difference) |
@@ -821,6 +823,7 @@
 | [2050-count-good-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2571-find-the-pivot-integer](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2571-find-the-pivot-integer) |
@@ -979,6 +982,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
