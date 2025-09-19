@@ -249,6 +249,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Stack
 |  |
 | ------- |
@@ -556,6 +557,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3797-design-spreadsheet](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
 | ------- |
@@ -743,6 +745,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3797-design-spreadsheet](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1180,6 +1183,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3797-design-spreadsheet](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1426,6 +1430,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
+| [3797-design-spreadsheet](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Counting Sort
 |  |
 | ------- |
