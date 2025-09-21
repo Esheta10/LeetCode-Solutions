@@ -208,6 +208,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2044-number-of-wonderful-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2044-number-of-wonderful-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -451,6 +452,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2047-find-a-peak-element-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
@@ -1131,6 +1133,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1434,6 +1437,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3678-design-task-manager) |
@@ -1571,6 +1575,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
