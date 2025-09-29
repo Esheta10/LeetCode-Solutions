@@ -26,3 +26,4 @@ public:
         return solve(triangle, 0, 0);
     }
 };
+
