@@ -486,6 +486,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2342-minimum-average-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -834,6 +835,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2571-find-the-pivot-integer](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2571-find-the-pivot-integer) |
@@ -978,6 +980,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2428-equal-row-and-column-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -1619,6 +1622,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Game Theory
 |  |
