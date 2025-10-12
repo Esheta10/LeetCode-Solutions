@@ -104,6 +104,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Recursion
 |  |
@@ -245,6 +246,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -551,6 +553,7 @@
 | [3429-special-array-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -629,6 +632,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3427-special-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3427-special-array-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-zero-array-transformation-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3827-implement-router](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## String
@@ -957,6 +961,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1050,6 +1055,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sorting
@@ -1135,6 +1141,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3321-type-of-triangle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3647-zero-array-transformation-iii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
