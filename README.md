@@ -569,6 +569,7 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -644,6 +645,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3827-implement-router](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## String
@@ -802,6 +804,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Math
@@ -918,6 +921,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -1162,6 +1166,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
