@@ -217,6 +217,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
+| [2169-simple-bank-system](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -476,6 +477,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2169-simple-bank-system](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
@@ -1015,6 +1017,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2169-simple-bank-system](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -1505,6 +1508,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3678-design-task-manager) |
