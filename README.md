@@ -263,6 +263,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
 | ------- |
@@ -592,6 +593,7 @@
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3797-design-spreadsheet](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -1228,6 +1230,7 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -1470,6 +1473,7 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1498,6 +1502,7 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1549,6 +1554,7 @@
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3863-power-grid-maintenance](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1671,6 +1677,7 @@
 | [2868-continuous-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [3678-design-task-manager](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
@@ -1682,6 +1689,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3863-power-grid-maintenance](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
