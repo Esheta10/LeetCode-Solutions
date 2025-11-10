@@ -263,6 +263,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
@@ -296,6 +297,7 @@
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3447-clear-digits) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Array
 |  |
 | ------- |
@@ -594,6 +596,7 @@
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3797-design-spreadsheet](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
@@ -1357,6 +1360,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1575,6 +1579,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
 |  |
 | ------- |
