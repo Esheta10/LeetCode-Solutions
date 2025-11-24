@@ -1,52 +1,48 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        vector<int> result;
+        
         int m = matrix.size();
         int n = matrix[0].size();
-        int top = 0;
-        int down = m-1;
-        int left = 0;
-        int right = n-1;
 
         int dir=0;
+        int top=0, down=m-1;
+        int left=0,right=n-1;
 
-        while(top<=down && left<=right)
-        {
-            if(dir==0)
-            {
-                for(int i=left;i<=right;i++)
-                    result.push_back(matrix[top][i]);
+        vector<int> res;
 
+        while(top<=down && left<=right){
+            if(dir==0){
+                //left -> right
+                for(int i=left;i<=right;i++){
+                    res.push_back(matrix[top][i]);
+                }
                 top++;
             }
-            if(dir==1)
-            {
-                for(int i=top;i<=down;i++)
-                    result.push_back(matrix[i][right]);
-
+            if(dir==1){
+                for(int i=top;i<=down;i++){
+                // top -> down
+                    res.push_back(matrix[i][right]);
+                }
                 right--;
             }
-            if(dir==2)
-            {
-                for(int i=right;i>=left;i--)
-                    result.push_back(matrix[down][i]);
-
+            if(dir==2){
+                for(int i=right;i>=left;i--){
+                // right -> left
+                res.push_back(matrix[down][i]);
+                }
                 down--;
             }
-            if(dir==3)
-            {
-                for(int i=down;i>=top;i--)
-                    result.push_back(matrix[i][left]);
-                
+            if(dir==3){
+                for(int i=down;i>=top;i--){
+                // down -> top
+                res.push_back(matrix[i][left]);
+                }
                 left++;
             }
 
-            dir++;
-
-            if(dir==4)
-                dir=0;
+            dir = (dir + 1)% 4;
         }
-        return result;
+        return res;
     }
 };
