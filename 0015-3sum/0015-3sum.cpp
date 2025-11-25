@@ -1,42 +1,33 @@
 class Solution {
 public:
-    vector<vector<int>> result;
-    void twoSum(vector<int>nums,int target,int i,int j)
-    {
-        while(i<j)
-        {
-            if(nums[i]+nums[j]>target)
-                j--;
-            else if(nums[i]+nums[j]<target)
-                i++;
-            else
-            {
-                //first we will remove duplicates from either end
-                while(i<j && nums[i]==nums[i+1])
-                    i++;
-                while(i<j && nums[j]==nums[j-1])
-                    j--;
-
-                result.push_back({-target,nums[i],nums[j]});
-                i++;
-                j--;
-            }
-        }
-    }
     vector<vector<int>> threeSum(vector<int>& nums) {
-        int n=nums.size();
-        if(n<3)
-            return {};
+        
+        int n = nums.size();
         sort(nums.begin(),nums.end());
-        for(int i=0;i<n;i++)
-        {
-            if(i!=0 && nums[i]==nums[i-1])
-                continue;
-            
-            int n1 = nums[i];
-            int target = -n1;
+        vector<vector<int>> result;
 
-            twoSum(nums,target,i+1,n-1);
+        for(int i=0;i<n;i++){
+            if(i>0 && nums[i] == nums[i-1])
+                continue;
+
+            int l = i+1;
+            int r = n-1;
+
+            while(l<r){
+                int sum = nums[i] + nums[l] + nums[r];
+                if(sum == 0){
+                    result.push_back({nums[i],nums[l],nums[r]});
+                    l++;
+                    r--;
+
+                    while(l<r && nums[l]==nums[l-1])l++;
+                    while(l<r && nums[r]==nums[r+1])r--;
+                }
+                else if(sum<0)
+                    l++;
+                else
+                    r--;
+            }
         }
         return result;
     }
