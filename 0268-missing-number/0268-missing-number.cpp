@@ -1,9 +1,18 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
+        
         int n = nums.size();
-        int total = n*(n+1)/2;
-        int sum = accumulate(nums.begin(),nums.end(),0);
-        return total-sum;
+        int xr = 0;
+
+        for(int i=0;i<=n;i++){
+            xr ^= i;
+        }
+
+        for(int num : nums){
+            xr ^= num;
+        }
+
+        return xr;
     }
 };
