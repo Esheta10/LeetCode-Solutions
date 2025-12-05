@@ -450,6 +450,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -839,6 +840,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
@@ -1042,6 +1044,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
