@@ -431,6 +431,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1284-four-divisors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
