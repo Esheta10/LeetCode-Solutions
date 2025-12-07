@@ -39,7 +39,7 @@ public:
 
             if(num == maj1)
                 freq1++;
-            if(num == maj2)
+            else if(num == maj2)
                 freq2++;
         }
 
