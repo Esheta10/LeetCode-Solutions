@@ -11,16 +11,18 @@
 class Solution {
 public:
     ListNode* swapPairs(ListNode* head) {
+        
         if(head==NULL || head->next==NULL)
             return head;
-        //A->head
-        //B->head->next
-        //C->head->next->next
-        //A->B->C->.....
-        ListNode* temp  = head->next;//B
-        head->next=swapPairs(head->next->next);
-        temp->next=head;
 
+        // A - head
+        // B - head->next
+        // C - head->next->next
+
+        ListNode* temp = head->next; //B
+        head->next = swapPairs(head->next->next);  // A recursively calls C and D pair
+        temp->next = head;  // B becomes head now.
         return temp;
+
     }
 };
