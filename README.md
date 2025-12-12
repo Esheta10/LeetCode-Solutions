@@ -24,6 +24,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
+| [0876-middle-of-the-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1765-merge-in-between-linked-lists) |
@@ -78,6 +79,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0868-push-dominoes](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
