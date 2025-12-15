@@ -10,45 +10,40 @@
  */
 class Solution {
 public:
-//Approach-1 : Reverse the linked list
-    ListNode* reverseLL(ListNode* head)
-    {
-        if(head==NULL || head->next==NULL)
+    ListNode* reverseLL(ListNode* head){
+
+        if(head == NULL || head->next == NULL)
             return head;
 
-        ListNode* prev = NULL;
-        ListNode* curr = head;
-        ListNode* nextNode = NULL;
-        while(curr!=NULL)
-        {
-           nextNode = curr->next; // Store the next node
-           curr->next = prev;// Reverse the pointer
-           prev = curr;// Move prev forward
-           curr = nextNode;// Move curr forward
-        }   
-        return prev; // New head of the reversed list
+        ListNode* last = reverseLL(head->next);
+        head->next->next = head;
+        head->next = NULL;
+        return last;
     }
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        
         l1 = reverseLL(l1);
         l2 = reverseLL(l2);
 
-        int sum=0,carry=0;
-        ListNode* ans = new  ListNode();
-        while(l1!=NULL || l2!=NULL)
-        {
-            if(l1)
-            {
+        ListNode* ans = new ListNode(0);
+
+        int sum = 0, carry = 0;
+        while(l1 != NULL || l2 != NULL){
+
+            if(l1 != NULL){
                 sum += l1->val;
-                l1=l1->next;
+                l1 = l1->next;
             }
-            if(l2)
-            {
+
+            if(l2 != NULL){
                 sum += l2->val;
-                l2=l2->next;
+                l2 = l2->next;
             }
-            ans->val = sum%10;
-            carry = sum/10;
-            ListNode * newNode = new ListNode(carry);
+
+            ans->val = sum % 10;
+            carry = sum / 10;
+
+            ListNode* newNode = new ListNode(carry);
             newNode->next = ans;
             ans = newNode;
             sum = carry;
