@@ -10,34 +10,75 @@
  */
 class Solution {
 public:
-    ListNode* reverseLL(ListNode* head){
+    // ListNode* reverseLL(ListNode* head){
 
-        if(head == NULL || head->next == NULL)
-            return head;
+    //     if(head == NULL || head->next == NULL)
+    //         return head;
 
-        ListNode* last = reverseLL(head->next);
-        head->next->next = head;
-        head->next = NULL;
-        return last;
-    }
+    //     ListNode* last = reverseLL(head->next);
+    //     head->next->next = head;
+    //     head->next = NULL;
+    //     return last;
+    // }
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         
-        l1 = reverseLL(l1);
-        l2 = reverseLL(l2);
+        //  Approach-1 (By reversing the Linked List)
+        // l1 = reverseLL(l1);
+        // l2 = reverseLL(l2);
 
-        ListNode* ans = new ListNode(0);
+        // ListNode* ans = new ListNode(0);
 
-        int sum = 0, carry = 0;
-        while(l1 != NULL || l2 != NULL){
+        // int sum = 0, carry = 0;
+        // while(l1 != NULL || l2 != NULL){
 
-            if(l1 != NULL){
-                sum += l1->val;
-                l1 = l1->next;
+        //     if(l1 != NULL){
+        //         sum += l1->val;
+        //         l1 = l1->next;
+        //     }
+
+        //     if(l2 != NULL){
+        //         sum += l2->val;
+        //         l2 = l2->next;
+        //     }
+
+        //     ans->val = sum % 10;
+        //     carry = sum / 10;
+
+        //     ListNode* newNode = new ListNode(carry);
+        //     newNode->next = ans;
+        //     ans = newNode;
+        //     sum = carry;
+        // }
+        // return carry==0 ? ans->next : ans;
+
+        //Approach-2 (Using Stack) - What if you cannot modify the input lists? In other words, reversing the lists is not allowed. 
+
+        stack<int> s1, s2;
+
+        while(l1 != NULL){
+            s1.push(l1->val);
+            l1 = l1->next;
+        }
+
+        while(l2 != NULL){
+            s2.push(l2->val);
+            l2 = l2->next;
+        }
+
+        int sum=0, carry=0;
+
+        ListNode* ans = new ListNode();
+
+        while(!s1.empty() || !s2.empty()){
+
+            if(!s1.empty()){
+                sum += s1.top();
+                s1.pop();
             }
 
-            if(l2 != NULL){
-                sum += l2->val;
-                l2 = l2->next;
+            if(!s2.empty()){
+                sum += s2.top();
+                s2.pop();
             }
 
             ans->val = sum % 10;
