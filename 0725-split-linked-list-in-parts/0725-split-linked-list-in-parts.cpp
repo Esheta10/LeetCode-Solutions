@@ -11,30 +11,31 @@
 class Solution {
 public:
     vector<ListNode*> splitListToParts(ListNode* head, int k) {
+        
         ListNode* curr = head;
-        int l=0;
-        while(curr)
-        {
+        int l = 0;
+        while(curr){
             l++;
-            curr=curr->next;
+            curr = curr->next;
         }
-        int eachBucketNodes = l/k;
-        int remainderNodes = l%k;
+
+        int eachBucketNodes = l / k;
+        int remainingNodes = l % k;
 
         vector<ListNode*> result(k,NULL);
-        curr=head;
+        curr = head;
         ListNode* prev = NULL;
 
-        for(int i=0;curr!=NULL && i<k;i++)
-        {
-            result[i]=curr;
-            for(int count=1;count<= eachBucketNodes + (remainderNodes>0 ? 1 : 0);count++)
-            {
-                    prev = curr;
-                    curr = curr->next;
+         for(int i = 0; curr && i < k ; i++) {
+            result[i] = curr;
+
+            for(int count = 1; count <= eachBucketNodes + (remainingNodes>0 ? 1 : 0); count++){
+
+                prev = curr;
+                curr = curr->next;
             }
-            prev->next=NULL;
-            remainderNodes--;
+            prev->next = NULL;
+            remainingNodes--;
         }
         return result;
     }
