@@ -10,25 +10,64 @@
  */
 class Solution {
 public:
-    bool isPalindrome(ListNode* head) {
-        
-        ListNode* curr = head;
-        vector<int> temp;
+    ListNode* reverseList(ListNode* head){
 
-        while(curr){
-            temp.push_back(curr->val);
-            curr = curr->next;
+        if(head==NULL || head->next==NULL)
+            return head;
+
+        ListNode* last = reverseList(head->next);
+        head->next->next = head;
+        head->next = NULL;
+        return last;
+    }
+    bool isPalindrome(ListNode* head) {
+        //Approach-1 (Using extra space)
+        //T.C : O(n)
+        //S.C : O(n)    
+        // ListNode* curr = head;
+        // vector<int> temp;
+
+        // while(curr){
+        //     temp.push_back(curr->val);
+        //     curr = curr->next;
+        // }
+
+        // int i=0;
+        // int j = temp.size()-1;
+
+        // while(i<j){
+        //     if(temp[i] != temp[j])
+        //         return false;
+
+        //     i++;
+        //     j--;
+        // }
+        // return true;
+
+        if(head==NULL || head->next==NULL)
+            return true;
+
+        ListNode* slow = head;
+        ListNode* fast = head;
+        ListNode* prev = NULL;
+
+        while(fast!=NULL && fast->next!=NULL){
+
+            prev = slow;
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        int i=0;
-        int j = temp.size()-1;
+        ListNode* revHead = reverseList(slow);
+        prev->next = NULL;
 
-        while(i<j){
-            if(temp[i] != temp[j])
+        while(revHead!=NULL && head!=NULL){
+
+            if(revHead->val != head->val)
                 return false;
 
-            i++;
-            j--;
+            revHead = revHead->next;
+            head = head->next;
         }
         return true;
     }
