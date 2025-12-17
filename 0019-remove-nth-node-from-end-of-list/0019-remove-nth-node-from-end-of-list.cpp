@@ -10,37 +10,66 @@
  */
 class Solution {
 public:
-    int lengthOfLinkedList(ListNode* head){
+    // int lengthOfLinkedList(ListNode* head){
 
-        int l = 0;
-        while(head != NULL){
-            l++;
-            head = head->next;
-        }
-        return l;
-    }
+    //     int l = 0;
+    //     while(head != NULL){
+    //         l++;
+    //         head = head->next;
+    //     }
+    //     return l;
+    // }
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         
-        int L = lengthOfLinkedList(head);
+        // Two-Pass Solution
+        // int L = lengthOfLinkedList(head);
 
-        if(L==n){
+        // if(L==n){
 
-            ListNode* temp  = head->next;
-            delete(head);
-            return temp;
+        //     ListNode* temp  = head->next;
+        //     delete(head);
+        //     return temp;
+        // }
+
+        // int travel_front = L-n;
+
+        // ListNode* prev = NULL;
+        // ListNode* temp = head;
+
+        // while(travel_front--){
+        //     prev = temp;
+        //     temp = temp->next;
+        // }
+        // prev->next = temp->next;
+        // delete(temp);
+        // return head;
+
+
+
+        // One-Pass Solution
+
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        for(int i=1;i<=n;i++){
+            fast = fast->next;
         }
 
-        int travel_front = L-n;
+        if(fast==NULL)
+            return head->next;
 
-        ListNode* prev = NULL;
-        ListNode* temp = head;
 
-        while(travel_front--){
-            prev = temp;
-            temp = temp->next;
+        while(fast!=NULL && fast->next!=NULL)
+        {
+            slow = slow->next;
+            fast = fast->next;
         }
-        prev->next = temp->next;
+        ListNode* temp = slow->next;
+        slow->next = slow->next->next;
         delete(temp);
-        return head;
+
+        return head; 
+
+
     }
 };
