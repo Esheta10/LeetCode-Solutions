@@ -40,6 +40,7 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -319,6 +320,7 @@
 | [2487-remove-nodes-from-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3447-clear-digits) |
@@ -965,6 +967,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
