@@ -1568,6 +1568,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
@@ -1619,6 +1620,7 @@
 | [0684-redundant-connection](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1647,6 +1649,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
