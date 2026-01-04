@@ -475,6 +475,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
+| [1390-four-divisors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -951,6 +952,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1284-four-divisors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1284-four-divisors) |
+| [1390-four-divisors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
