@@ -9,34 +9,31 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-//Approach-1 : BFS
 class Solution {
 public:
     bool isCompleteTree(TreeNode* root) {
-        //Using BFS
         
-        queue<TreeNode*> que;
-        
-        que.push(root);
-        
-        bool past = false; //kya aapne past me NULL node dekha hai ?
-        
-        while(!que.empty()) {
-            TreeNode* node = que.front();
-            que.pop();
-            
-            if(node == NULL) {
+        // Using Level-order Traversal (BFS)
+        queue<TreeNode*> q;
+        q.push(root);
+
+        bool past = false; // kya aapne pehle kiss NULL node ko dekha hai?
+        while(q.empty() == false){
+
+            TreeNode* node = q.front();
+            q.pop();
+
+            if(node == NULL){
                 past = true;
             } else {
-                if(past == true) {
+                if(past == true)
                     return false;
-                }
-                
-                que.push(node->left);
-                que.push(node->right);
+
+                q.push(node->left);
+                q.push(node->right);
             }
+           
         }
-        
         return true;
     }
 };
