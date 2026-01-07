@@ -10,18 +10,22 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(!root)
-            return NULL;
         
-        if(root->val == p->val || root->val == q->val)
+        if(root == NULL)
             return root;
-        
-        TreeNode* l = lowestCommonAncestor(root->left, p, q);
-        TreeNode* r = lowestCommonAncestor(root->right, p, q);
-        
-        if(l && r)
+
+        if(root == p || root == q)
             return root;
-        
-        return l?l:r;
+
+        TreeNode* leftN = lowestCommonAncestor(root->left,p,q);
+        TreeNode* rightN = lowestCommonAncestor(root->right,p,q);
+
+        if(leftN != NULL && rightN != NULL)
+            return root;
+
+        if(leftN != NULL)
+            return leftN;
+
+        return rightN;
     }
 };
