@@ -1578,6 +1578,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -1606,6 +1607,7 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -1641,6 +1643,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
@@ -1673,6 +1676,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
