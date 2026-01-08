@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    vector<int> result;
+    
     bool fill(TreeNode* root, int sum, int& targetSum){
 
         if(root == NULL)
