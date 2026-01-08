@@ -1586,6 +1586,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1614,6 +1615,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [0814-binary-tree-pruning](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0854-making-a-large-island](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
@@ -1679,6 +1681,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
