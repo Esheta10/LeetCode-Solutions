@@ -11,36 +11,54 @@
  */
 class Solution {
 public:
-    int maxDiff;
-    void findMaxUtil(TreeNode* root, TreeNode* child){
+    // Approach-1
+    // int maxDiff;
+    // void findMaxUtil(TreeNode* root, TreeNode* child){
 
-        if(root==NULL || child==NULL)
-            return;
+    //     if(root==NULL || child==NULL)
+    //         return;
 
-        maxDiff = max(maxDiff, abs(root->val - child->val));
+    //     maxDiff = max(maxDiff, abs(root->val - child->val));
 
-        findMaxUtil(root,child->left);
-        findMaxUtil(root,child->right);
-    }
-    void findMaxDiff(TreeNode* root){
+    //     findMaxUtil(root,child->left);
+    //     findMaxUtil(root,child->right);
+    // }
+    // void findMaxDiff(TreeNode* root){
 
-        if(root == NULL || root->left == NULL && root->right == NULL)
-            return;
+    //     if(root == NULL || root->left == NULL && root->right == NULL)
+    //         return;
 
-        // find max diff of this root with all its children
-        findMaxUtil(root,root->left);
-        findMaxUtil(root,root->right);
+    //     // find max diff of this root with all its children
+    //     findMaxUtil(root,root->left);
+    //     findMaxUtil(root,root->right);
 
 
-        // further move left and right
-        findMaxDiff(root->left);
-        findMaxDiff(root->right);
+    //     // further move left and right
+    //     findMaxDiff(root->left);
+    //     findMaxDiff(root->right);
+    // }
+    int findMaxDiff(TreeNode* root,int minV, int maxV){
+
+        if(root == NULL)
+            return abs(minV-maxV);
+
+        minV = min(minV,root->val);
+        maxV = max(maxV,root->val);
+
+        int l = findMaxDiff(root->left,minV,maxV);
+        int r = findMaxDiff(root->right,minV,maxV);
+
+        return max(l,r);
     }
     int maxAncestorDiff(TreeNode* root) {
         
-        maxDiff = INT_MIN;
-        findMaxDiff(root);
+        // maxDiff = INT_MIN;
+        // findMaxDiff(root);
 
-        return maxDiff;
+        // return maxDiff;
+
+        //Approach-2
+
+        return findMaxDiff(root,root->val,root->val);
     }
 };
