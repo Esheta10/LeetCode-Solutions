@@ -1106,6 +1106,7 @@
 | [1063-best-sightseeing-pair](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1236-n-th-tribonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1418-fair-distribution-of-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1418-fair-distribution-of-cookies) |
@@ -1612,6 +1613,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -1652,6 +1654,7 @@
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1367-linked-list-in-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -1734,6 +1737,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
