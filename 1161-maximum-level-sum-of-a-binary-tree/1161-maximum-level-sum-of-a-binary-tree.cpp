@@ -11,39 +11,72 @@
  */
 class Solution {
 public:
+    map<int,int> mp;
+    void dfs(TreeNode* root,int level){
+        if(root==NULL)
+            return;
+
+        mp[level] +=  root->val;
+
+        dfs(root->left,level+1);
+        dfs(root->right,level+1);
+    }
     int maxLevelSum(TreeNode* root) {
         
-        int maxSum = INT_MIN;
-        int currentLevel = 1;
-        int resultLevel = 0;
+        // APPROACH-1 (BFS)
 
-        queue<TreeNode*> que;
-        que.push(root);
+        // int maxSum = INT_MIN;
+        // int currentLevel = 1;
+        // int resultLevel = 0;
 
-        while(!que.empty()){
+        // queue<TreeNode*> que;
+        // que.push(root);
 
-            int n = que.size();
-            int sum = 0;
+        // while(!que.empty()){
 
-            while(n--){
-                TreeNode* node = que.front();
-                que.pop();
+        //     int n = que.size();
+        //     int sum = 0;
+
+        //     while(n--){
+        //         TreeNode* node = que.front();
+        //         que.pop();
                 
-                sum += node->val;
+        //         sum += node->val;
 
-                if(node->left != NULL)
-                    que.push(node->left);
+        //         if(node->left != NULL)
+        //             que.push(node->left);
 
-                if(node->right != NULL)
-                    que.push(node->right);
-            }
+        //         if(node->right != NULL)
+        //             que.push(node->right);
+        //     }
+
+        //     if(sum > maxSum){
+        //         maxSum = sum;
+        //         resultLevel = currentLevel;
+        //     }
+        //     currentLevel++;
+        // } 
+        // return resultLevel;
+
+        // APPROACH-2 (DFS)
+
+        mp.clear();
+        int maxSum = INT_MIN;
+        int result = 0;
+
+        dfs(root,1);
+
+        for(auto &it: mp){
+
+            int level = it.first;
+            int sum = it.second;
 
             if(sum > maxSum){
+
                 maxSum = sum;
-                resultLevel = currentLevel;
+                result = level;
             }
-            currentLevel++;
-        } 
-        return resultLevel;
+        }
+        return result;
     }
 };
