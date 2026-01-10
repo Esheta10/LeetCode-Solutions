@@ -1603,6 +1603,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1642,6 +1643,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0814-binary-tree-pruning](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
@@ -1682,6 +1684,7 @@
 | [0279-perfect-squares](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0623-add-one-row-to-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
@@ -1729,6 +1732,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
