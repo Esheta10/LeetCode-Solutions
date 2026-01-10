@@ -1611,6 +1611,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1652,6 +1653,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1690,6 +1692,7 @@
 | [0854-making-a-large-island](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -1740,6 +1743,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
