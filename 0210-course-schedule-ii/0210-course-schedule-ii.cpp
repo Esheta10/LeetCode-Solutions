@@ -1,61 +1,58 @@
 class Solution {
 public:
-    vector<int> topologicalSort(unordered_map<int,vector<int>>& adj, int n, vector<int>& indegree){
+    bool hasCycle = false;
+    void DFS(unordered_map<int,vector<int>>& adj, int u, stack<int>& st, vector<bool>& visited, vector<bool>& inRecursion){
 
-        queue<int> que;
+        visited[u] = true;
+        inRecursion[u] = true;
 
-        int count = 0;
+        // pehle mere baccho ko daalo( u ke)
+        for(int &v: adj[u]){
 
-        vector<int> result;
-
-        for(int i=0; i<n; i++){
-            if(indegree[i]==0){
-                que.push(i);
-                result.push_back(i);
-                count++;
+            if(inRecursion[v] == true){
+                hasCycle = true;
+                return;
             }
+            if(!visited[v])
+                DFS(adj,v,st,visited,inRecursion);
         }
-
-        while(!que.empty()){
-
-            int u = que.front();
-            que.pop();
-
-            for(int &v: adj[u]){
-
-                indegree[v]--;
-
-                if(indegree[v]==0){
-                    que.push(v);
-                    count++;
-                    result.push_back(v);
-                }
-            }
-        }   
-
-        if(count == n)
-            return result; // all nodes are visited-> no cycle
-
-        return {};// there's a cycle
+        // fir mujhe daalo
+        st.push(u);
+        inRecursion[u] = false;
     }
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
         
-        vector<int> indegree(numCourses, 0);
+        unordered_map<int, vector<int>> adj;
 
-        unordered_map<int,vector<int>> adj;
+        vector<bool> inRecursion(numCourses, false);
+        vector<bool> visited(numCourses, false);
 
         for(auto &vec: prerequisites){
 
             int a = vec[0];
             int b = vec[1];
 
-            // b-->a
+            // b-->a 
             adj[b].push_back(a);
 
-            // arrow --> a ki taraf aa raha hai
-            indegree[a]++;
-        } 
+           
+        }
 
-        return topologicalSort(adj, numCourses, indegree);
+        stack<int> st;
+        for(int i=0;i<numCourses;i++){
+            if(!visited[i]){
+                DFS(adj,i,st,visited,inRecursion);
+            }
+        }
+
+        if(hasCycle)
+            return {};
+
+        vector<int> result;
+        while(!st.empty()){
+            result.push_back(st.top());
+            st.pop();
+        }
+        return result;
     }
 };
