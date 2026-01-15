@@ -1655,6 +1655,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0814-binary-tree-pruning](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0854-making-a-large-island](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
@@ -1704,6 +1705,7 @@
 | [0623-add-one-row-to-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -1992,4 +1994,12 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
