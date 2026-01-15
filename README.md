@@ -1644,6 +1644,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -1693,6 +1694,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1795,6 +1797,7 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [1039-find-the-town-judge](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
@@ -1954,6 +1957,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [1558-course-schedule-iv](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Binary Indexed Tree
