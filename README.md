@@ -1682,6 +1682,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1725,6 +1726,7 @@
 | [1492-time-needed-to-inform-all-employees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1558-course-schedule-iv](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -2004,10 +2006,12 @@
 | [0785-is-graph-bipartite](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 <!---LeetCode Topics End-->
