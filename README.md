@@ -94,6 +94,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -205,6 +206,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1044-find-common-characters) |
+| [1048-longest-string-chain](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -467,6 +469,7 @@
 | [1036-rotting-oranges](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1044-find-common-characters) |
+| [1048-longest-string-chain](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1063-best-sightseeing-pair](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
@@ -809,6 +812,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1006-vowel-spellchecker](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1044-find-common-characters) |
+| [1048-longest-string-chain](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1205-defanging-an-ip-address) |
@@ -1119,6 +1123,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1048-longest-string-chain](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1063-best-sightseeing-pair](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1236-n-th-tribonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -1297,6 +1302,7 @@
 | [0948-sort-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1217-relative-sort-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
