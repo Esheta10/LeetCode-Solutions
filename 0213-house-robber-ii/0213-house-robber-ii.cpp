@@ -1,18 +1,16 @@
 class Solution {
 public:
-    int t[101];
-    int solve(vector<int> nums, int i, int n){
+    int solve(vector<int>& nums, int start, int end){
 
-        if(i > n)
-            return 0;
+        int prev = 0, curr = 0;
 
-        if(t[i] != -1)
-            return t[i];
+        for(int i = start;  i <= end; i++){
 
-        int steal = nums[i] + solve(nums, i+2, n);
-        int skip = solve(nums, i+1, n);
-
-        return t[i] = max(steal,skip);
+            int temp = max(curr , prev + nums[i]);
+            prev = curr;
+            curr = temp;
+        }
+        return curr;
     }
     int rob(vector<int>& nums) {
         
@@ -20,18 +18,14 @@ public:
 
         if(n==1)
             return nums[0];
-            
+        
         if(n==2)
-            return max(nums[0],nums[1]);
+            return max(nums[0], nums[1]);
 
-        memset(t,-1, sizeof(t));
 
-        int take_0th_index_house = solve(nums,0,n-2); // since we'll skip the last house
+        int take_0th_index_house = solve(nums, 0, n-2);
+        int take_1st_index_house = solve(nums, 1, n-1);
 
-        memset(t,-1,sizeof(t));
-
-        int take_1st_index_house = solve(nums,1,n-1); // since we have started from 1st index, last house can be included
-
-        return max(take_0th_index_house, take_1st_index_house);        
+        return max(take_0th_index_house, take_1st_index_house);
     }
 };
