@@ -814,6 +814,7 @@
 | [1044-find-common-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1048-longest-string-chain](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1143-longest-common-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -1126,6 +1127,7 @@
 | [1013-fibonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1048-longest-string-chain](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1063-best-sightseeing-pair](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1143-longest-common-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
