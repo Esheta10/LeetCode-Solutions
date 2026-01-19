@@ -1046,6 +1046,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -1131,6 +1132,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1418-fair-distribution-of-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1418-fair-distribution-of-cookies) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
