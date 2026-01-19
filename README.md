@@ -1651,6 +1651,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0572-subtree-of-another-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1701,6 +1702,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1817,6 +1819,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0572-subtree-of-another-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1943,6 +1946,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -1958,6 +1962,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
