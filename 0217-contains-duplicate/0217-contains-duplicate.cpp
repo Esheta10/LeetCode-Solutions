@@ -2,8 +2,14 @@ class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
         
-        unordered_set<int> uniqueNums(nums.begin(), nums.end());
+        sort(nums.begin(), nums.end());
+        int n = nums.size();
 
-        return uniqueNums.size() < nums.size();
+        for(int i=1; i<n; i++){
+
+            if(nums[i]==nums[i-1])
+                return true; // duplicates exist
+        }
+        return false;
     }
 };
