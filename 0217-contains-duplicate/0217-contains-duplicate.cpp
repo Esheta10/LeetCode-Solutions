@@ -2,17 +2,8 @@ class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
         
-        unordered_set<int> st;
-        int n = nums.size();
+        unordered_set<int> uniqueNums(nums.begin(), nums.end());
 
-        for(int num: nums){
-
-            if(st.count(num))   // duplicates exist
-                return true;
-
-            st.insert(num);
-        }
-
-        return false;
+        return uniqueNums.size() < nums.size();
     }
 };
