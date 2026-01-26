@@ -159,6 +159,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -383,6 +384,7 @@
 | [0120-triangle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0139-word-break) |
@@ -2085,6 +2087,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0785-is-graph-bipartite](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
