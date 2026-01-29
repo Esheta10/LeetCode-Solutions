@@ -516,6 +516,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -734,6 +735,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
