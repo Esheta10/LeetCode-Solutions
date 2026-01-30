@@ -417,6 +417,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -721,6 +722,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1062,6 +1064,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -1140,6 +1143,7 @@
 | [0368-largest-divisible-subset](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
@@ -1495,6 +1499,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0502-ipo) |
