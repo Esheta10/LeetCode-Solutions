@@ -2,20 +2,22 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
         
-        // if length's differ, can't be anagrams
+        // check if length's are equal
         if(s.length() != t.length())
             return false;
-        
-        vector<int> freq(26,0);
 
-        for(int i=0; i<s.length(); i++){
+        unordered_map<char,int> mp;
 
-            freq[s[i] - 'a']++;
-            freq[t[i] - 'a']--;
+        //Count frequencies in string s
+        for(char c: s){
+            mp[c]++;
         }
 
-        for(int count: freq){
-            if(count != 0)
+        // Count frequencies in string t
+        for(char c: t){
+            mp[c]--;
+
+            if(mp[c] < 0)  // character not in s, or in excess in t
                 return false;
         }
         return true;
