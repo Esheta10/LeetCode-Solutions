@@ -563,6 +563,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1944-truncate-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -1228,6 +1229,7 @@
 | [1642-water-bottles](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1806-count-of-matches-in-tournament](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
