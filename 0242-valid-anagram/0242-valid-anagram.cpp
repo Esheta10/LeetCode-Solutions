@@ -2,15 +2,22 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
         
-        // Brute-force approach
-
-        // If length's differ, can't be anagrams
+        // if length's differ, can't be anagrams
         if(s.length() != t.length())
             return false;
+        
+        vector<int> freq(26,0);
 
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
+        for(int i=0; i<s.length(); i++){
 
-        return s==t;
+            freq[s[i] - 'a']++;
+            freq[t[i] - 'a']--;
+        }
+
+        for(int count: freq){
+            if(count != 0)
+                return false;
+        }
+        return true;
     }
 };
