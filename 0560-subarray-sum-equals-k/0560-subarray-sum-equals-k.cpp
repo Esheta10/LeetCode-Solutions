@@ -4,20 +4,19 @@ public:
         
         int n = nums.size();
 
-        unordered_map<int,int> mp; // store {sum, freuency}
-        mp[0] = 1; // means sum=0 appeared once, before we start
+        unordered_map<int,int> mp;
+        mp[0]=1;
 
-        int sum = 0;
+        int currSum = 0;
         int count = 0;
 
-        for(int i=0; i<n; i++){
-            
-            sum += nums[i];
+        for(int num: nums){
 
-            if(mp.find(sum-k) != mp.end()) // means, we have earlier seen the subarray sum in map
-                count += mp[sum-k];
+            currSum += num;
+            if(mp.find(currSum-k) != mp.end())
+                count += mp[currSum-k];
 
-            mp[sum]++; // store the current sum frequency in map
+            mp[currSum]++;
         }
         return count;
     }
