@@ -93,6 +93,7 @@
 | [0567-permutation-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0868-push-dominoes](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
@@ -451,6 +452,7 @@
 | [0645-set-mismatch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0648-replace-words) |
+| [0658-find-k-closest-elements](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0679-24-game](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0705-design-hashset](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0706-design-hashmap) |
@@ -752,6 +754,7 @@
 | [0493-reverse-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0792-binary-search) |
@@ -955,6 +958,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -1362,6 +1366,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1439,6 +1444,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
