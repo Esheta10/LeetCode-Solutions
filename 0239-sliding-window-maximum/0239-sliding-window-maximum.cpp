@@ -4,13 +4,13 @@ public:
         
         int n = nums.size();
 
-        if(n==0)
+        if(n == 0)
             return {};
-            
+
         deque<int> deq;
         vector<int> result;
 
-        for(int i=0;i<n;i++){
+        for(int i=0; i<n; i++){
 
             while(!deq.empty() && deq.front() <= i-k)
                 deq.pop_front();
@@ -22,9 +22,7 @@ public:
 
             if(i >= k-1)
                 result.push_back(nums[deq.front()]);
-
         }
-
         return result;
     }
 };
