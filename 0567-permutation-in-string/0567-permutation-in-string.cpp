@@ -7,25 +7,24 @@ public:
 
         if(m > n)
             return false;
+        
+        vector<int> s1_freq(26,0);
+        vector<int> s2_freq(26,0);
 
-       // frequency vectors for s1 and the current window in s2
-       vector<int> s1_freq(26, 0);
-       vector<int> s2_freq(26, 0);
+        for(char &ch : s1){
+            s1_freq[ch - 'a']++;
+        }
 
-        // fill frequency of characters in s1
-       for(char &ch : s1){
-            s1_freq[ch-'a']++;
-       }
+        int i=0, j=0;
+        // i --> left index of the sliding window
+        // j --> right index of the slididng window
 
-       // slide the window over s2
-       int i=0; // left index of the sliding window
-       int j=0; // right index of the sliding window
-
-       while(j<n){
+        while(j<n){
 
             s2_freq[s2[j] - 'a']++; // include a new character from the right end of the window
 
             // check if the current window size matches the size of s1
+            // if not / if it is greater than s1, then shrink the window
             if(j-i+1 > m){
                 s2_freq[s2[i] - 'a']--;
                 i++;
@@ -36,7 +35,7 @@ public:
                 return true;
 
             j++;
-       }
+        }
         return false;
-    }   
+    }
 };
