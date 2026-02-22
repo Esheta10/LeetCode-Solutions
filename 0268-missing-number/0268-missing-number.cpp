@@ -3,16 +3,17 @@ public:
     int missingNumber(vector<int>& nums) {
         
         int n = nums.size();
-        int xr = 0;
 
-        for(int i=0;i<=n;i++){
-            xr ^= i;
+        int XorArr = 0, XorAll = 0;
+
+        for(int i=0; i<=n; i++){
+            XorAll ^= i;
         }
 
         for(int num : nums){
-            xr ^= num;
+            XorArr ^= num;
         }
 
-        return xr;
+        return XorAll ^ XorArr;
     }
 };
