@@ -671,6 +671,7 @@
 | [2756-buy-two-chocolates](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2756-buy-two-chocolates) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2765-longest-alternating-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2765-longest-alternating-subarray) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
@@ -2041,6 +2042,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2765-longest-alternating-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2765-longest-alternating-subarray) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3210-count-beautiful-substrings-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
