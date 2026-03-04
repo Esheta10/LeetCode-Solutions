@@ -2,29 +2,26 @@ class Solution {
 public:
     int longestAlternatingSubarray(vector<int>& nums, int threshold) {
         
-        int maxLen = 0;
         int n = nums.size();
+        int maxLen = 0;
+        int curr = 0;
 
+        for(int i=0; i<n; i++){
 
-        for(int l=0; l<n; l++){
-
-            if(nums[l] % 2 != 0)    // not even
+            if(nums[i] > threshold){
+                curr = 0; // threshold violated, rest the streak
                 continue;
-            if(nums[l] > threshold) // nums[l] <= threshold
-                continue;
-            
-            int len = 1;
-            for(int r=l+1; r<n; r++){
-
-                if(nums[r] > threshold )
-                    break;
-
-                if((nums[r] % 2) == (nums[r-1] % 2))
-                    break;
-
-                len++;
             }
-            maxLen = max(maxLen, len);
+            if(nums[i] % 2 == 0 && curr == 0) // valid even start
+                curr = 1;   
+            else if(curr > 0 && (nums[i] % 2) != (nums[i-1] % 2)) // alternating btw odd-even or vice-versa
+                curr++;
+            else if(nums[i] % 2 == 0) // restart at new even element
+                curr = 1;
+            else // odd with no valid window before it
+                curr = 0;
+
+            maxLen = max(maxLen, curr);
         }
         return maxLen;
     }
