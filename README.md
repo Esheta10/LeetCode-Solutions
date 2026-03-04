@@ -669,6 +669,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2756-buy-two-chocolates](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2756-buy-two-chocolates) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -989,6 +990,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
