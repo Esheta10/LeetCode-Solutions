@@ -8,12 +8,12 @@ public:
 
         for(int i=0; i<n; i++){
 
-            if(nums[i] == maj){
-               count++;
-            } else if(count == 0){
+            if(maj == nums[i])
+                count++;
+            else if(count == 0){
                 maj = nums[i];
                 count = 1;
-            } else{
+            } else {
                 count--;
             }
         }
