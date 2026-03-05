@@ -4,20 +4,21 @@ public:
         
         int n = nums.size();
 
-        unordered_map<int,int> mp;
-        mp[0]=1;
-
+        unordered_map<int, int> mp;
+        mp[0] = 1;
+        
         int currSum = 0;
         int count = 0;
 
-        for(int num: nums){
+        for(int i=0; i<n; i++){
+            
+            currSum += nums[i];
 
-            currSum += num;
             if(mp.find(currSum-k) != mp.end())
-                count += mp[currSum-k];
+                count += mp[currSum-k]; // add the count of all valid subarrays
 
-            mp[currSum]++;
-        }
+            mp[currSum]++; // store the current sum
+        }   
         return count;
     }
 };
