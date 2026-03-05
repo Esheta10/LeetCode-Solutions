@@ -10,7 +10,7 @@ public:
 
         for(int i=0; i<n; i++){
 
-            if(i>=k && flipStartedHere[i-k])
+            if(i>=k && flipStartedHere[i-k] == true)
                 currentFlipEffect--;
 
 
