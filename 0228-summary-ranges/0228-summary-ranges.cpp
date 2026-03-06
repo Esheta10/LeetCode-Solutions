@@ -1,28 +1,28 @@
 class Solution {
 public:
     vector<string> summaryRanges(vector<int>& nums) {
+        
         int n = nums.size();
-        if(n == 0)
-            return {};
-        
         vector<string> result;
-        
-        for(int i = 0; i<n; i++) {
-            
-            int start = nums[i];
-            
-            while(i+1 < n && nums[i]+1 == nums[i+1]) {
+        int i = 0;
+
+        while(i<n){
+
+            int start = i;
+
+            // keep going while consecutive
+            while(i+1<n && nums[i+1] == nums[i]+1)
                 i++;
-            }
-            
-            if(start != nums[i]) {
-                result.push_back(to_string(start) + "->" + to_string(nums[i]));
-            } else {
-                result.push_back(to_string(start));
-            }
-            
+
+            //single number
+            if(start == i)
+                result.push_back(to_string(nums[start]));
+            else
+                result.push_back(to_string(nums[start]) + "->" + to_string(nums[i]));
+
+
+            i++;
         }
-        
         return result;
     }
 };
