@@ -426,6 +426,7 @@
 | [0283-move-zeroes](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0312-burst-balloons](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0334-increasing-triplet-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -1122,6 +1123,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -1977,6 +1979,7 @@
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0706-design-hashmap) |
