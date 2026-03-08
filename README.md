@@ -552,6 +552,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
+| [1534-count-good-triplets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1547-destination-city](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1547-destination-city) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -2071,6 +2072,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [1534-count-good-triplets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1656-count-good-triplets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
