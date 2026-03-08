@@ -2,30 +2,13 @@ class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
         
-        int n = nums.size();
+        unordered_set<int> st(nums.begin(), nums.end());
 
-        for(int i=0; i<n; i++){
+        for(int i=1; i<=nums.size()+1; i++){
 
-            while(true){
-
-                int current = nums[i];
-
-                if(current<1 || current>n)
-                    break;
-
-                int rightPlace = current-1;
-
-                if(nums[rightPlace] == current)
-                    break; // element apni sahi jagah par hai
-
-                swap(nums[rightPlace], nums[i]);
-            }
+            if(st.find(i) == st.end())
+                return i;
         }
-
-        for(int i=0; i<n; i++){
-            if(nums[i] != i+1)
-                return i+1;
-        }
-        return n+1;
+        return nums.size()+1;
     }
 };
