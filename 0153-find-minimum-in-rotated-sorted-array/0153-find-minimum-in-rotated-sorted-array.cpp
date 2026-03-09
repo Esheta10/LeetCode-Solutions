@@ -3,19 +3,19 @@ public:
     int findMin(vector<int>& nums) {
         
         int n = nums.size();
-        int l = 0;
-        int r = n-1;
+        int left = 0;
+        int right = n-1;
 
-        while(l < r){
+        while(left < right){
 
-            int mid = l + (r - l)/2;
+            int mid = left + (right - left)/2;
 
-            if(nums[mid] > nums[r]){
-                l = mid + 1; // right side mein minimum value hoga
-            } else {    // nums[mid] <= nums[r]
-                r = mid;    // inimum left side mein hai, ya ye khud minimum hai
+            if(nums[mid] > nums[right]){
+                left = mid+1;
+            } else{
+                right = mid;
             }
         }
-        return nums[r];
+        return nums[right];
     }
 };
