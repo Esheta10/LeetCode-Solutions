@@ -1174,6 +1174,7 @@
 | [2618-maximize-the-minimum-powered-city](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3210-count-beautiful-substrings-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -1263,6 +1264,7 @@
 | [2530-minimize-maximum-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
