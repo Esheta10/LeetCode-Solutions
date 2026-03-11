@@ -2,25 +2,22 @@ class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
         
-        int row = matrix.size();
-        int col = matrix[0].size();
+        int m = matrix.size();
+        int n = matrix[0].size();
 
-        // convert 2D matrix to 1D sorted array
-        int left = 0;
-        int right = row*col - 1;
+        int i=0;
+        int j = n-1;
+        while(i<m && j>=0){
 
-        while(left <= right){
-            int mid = left + (right -left)/2;
-
-            //convert 1D array to 2D co-ordinates
-            int midValue = matrix[mid/col][mid%col];
-            if(midValue == target)
+            if(matrix[i][j] > target){
+                j--;
+            } else if(matrix[i][j] < target){
+                i++;
+            } else {
                 return true;
-            else if(midValue < target)
-                left = mid+1;
-            else
-                right = mid-1;
+            }
         }
+
         return false;
     }
 };
