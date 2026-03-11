@@ -4,28 +4,24 @@ public:
         
         int n = nums.size();
 
-        int l=0;
-        int r=n-1;
+        int left = 0;
+        int right = n-1;
 
-        while(l<r){
-            int mid = l+(r-l)/2;
+        while(left < right){
 
-            if(mid % 2 == 0){   // mid is even
+            int mid = left + (right - left)/2;
 
-                if(nums[mid] == nums[mid+1])
-                    l = mid+1; // single element is on right side
-                else 
-                    r = mid;
+            if(mid % 2 == 1) // if mid is odd, make it even
+                mid--;
+
+            if(nums[mid] == nums[mid+1]){
+                // order is intact, check towards right for single element
+                left = mid + 2;
             } else {
-                // mid is odd
-                if(nums[mid] == nums[mid-1])
-                    l = mid+1; // single element is on right side
-                else
-                    r = mid;
+                // nums[mid] != nums[mid+1] --> order is broken, either mid itself is single element or it lies towards left
+                right = mid;
             }
-
         }
-
-        return nums[r];
+        return nums[right];
     }
 };
