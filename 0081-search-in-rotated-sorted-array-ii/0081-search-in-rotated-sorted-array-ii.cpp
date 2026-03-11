@@ -1,33 +1,36 @@
 class Solution {
 public:
-    int findPivot(vector<int>& nums, int n){
+    int findPivot(vector<int>& nums, int &n){
 
-        int l = 0;
-        int r = n-1;
-        
-        while(l < r && nums[l] == nums[l+1]) l++;
-        while(l < r && nums[r] == nums[r-1]) r--;
-         
-        while(l < r){
-            int mid = l+(r-l)/2;
-            if(nums[mid] > nums[r]) // right mein dhundho
-                l = mid+1;
+        int left = 0;
+        int right = n - 1;
+
+        while(left < right && nums[left] == nums[left+1]) left++; // skip duplicates
+        while(left < right && nums[right] == nums[right-1]) right--; // skip duplicates
+
+        while(left < right){
+            
+            int mid = left + (right - left)/2;
+
+            if(nums[mid] > nums[right])
+                left = mid+1; // pivot must be towards right side
             else
-                r = mid;
+                right = mid;
         }
-        return r;
+        return left;
     }
-    bool binarySearch(int l, int r, vector<int>& nums, int target){
+    bool binarySearch(vector<int>& nums,int target, int left, int right){
 
-        while(l <= r){
-            int mid = l + (r-l)/2;
+        while(left <= right){
+
+            int mid = left+(right-left)/2;
 
             if(nums[mid] == target)
                 return true;
             else if(nums[mid] < target)
-                l = mid+1;
+                left = mid+1;
             else
-                r = mid-1;
+                right = mid-1;
         }
         return false;
     }
@@ -35,11 +38,15 @@ public:
         
         int n = nums.size();
 
-        int pivot_index = findPivot(nums, n);
+        int pivot = findPivot(nums, n);
 
-        if(binarySearch(0, pivot_index - 1, nums, target))
+        if(nums[pivot] == target)
+            return true;
+
+        if(binarySearch(nums, target, 0, pivot-1))
             return true;
         
-        return binarySearch(pivot_index, n-1, nums, target);
+        return binarySearch(nums, target, pivot+1, n-1);
+
     }
 };
