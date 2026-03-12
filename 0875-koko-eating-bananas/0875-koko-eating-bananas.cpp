@@ -1,32 +1,32 @@
 class Solution {
 public:
-    long long calculateHours(vector<int>& piles, int h){
+    bool canEatAllBananas(vector<int>& piles, int h, int mid){
 
-        long long hours = 0;
+        int actualHours = 0;
 
-        for(int num: piles){
-            hours += (num + h -1)/h;
+        for(int &pile : piles){
+
+            actualHours += pile / mid; // hours
+
+            if(pile % mid != 0)
+                actualHours++;
         }
-        return hours;
+        return actualHours <= h;
     }
     int minEatingSpeed(vector<int>& piles, int h) {
         
-        int l = 1;
-        int r = *max_element(piles.begin(), piles.end());
-        int result = r;
+        int left = 1;
+        int right = *max_element(piles.begin(), piles.end());
 
-        while(l <= r){
-            int mid = l+(r-l)/2;
+        while(left < right){
 
-            long long hoursNeeded = calculateHours(piles, mid);
+            int mid = left + (right - left)/2;
 
-            if(hoursNeeded <= h){
-                result = mid; // potential answer
-                r = mid - 1; // search further left
-            } else {
-                l = mid + 1;
-            }
+            if(canEatAllBananas(piles, h, mid))
+                right = mid;
+            else
+                left = mid + 1;
         }
-        return result;
+        return left;
     }
 };
