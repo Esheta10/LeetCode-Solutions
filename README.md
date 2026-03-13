@@ -648,6 +648,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2439-minimize-maximum-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -813,6 +814,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2439-minimize-maximum-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2530-minimize-maximum-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2530-minimize-maximum-of-array) |
@@ -1173,6 +1175,7 @@
 | [2342-minimum-average-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2439-minimize-maximum-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
@@ -1270,6 +1273,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2439-minimize-maximum-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2530-minimize-maximum-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -1653,6 +1657,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2439-minimize-maximum-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
