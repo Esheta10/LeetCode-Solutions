@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // find first index where potions[index] >= target
     int binarySearch(vector<int>& potions, int target){
 
         int left = 0;
@@ -14,7 +15,7 @@ public:
                 firstValid = mid; // potential answer
                 right = mid - 1;    // search further left for even smaller value
             } else { 
-                left = mid + 1;
+                left = mid + 1; // too small, go right
             }
         }
         return firstValid;
@@ -24,7 +25,7 @@ public:
         sort(potions.begin(), potions.end());
 
         int m = potions.size();
-        int maxPotion = potions[m-1];
+        int maxPotion = potions[m-1]; // largest potion available
 
         vector<int> ans;
 
@@ -32,16 +33,19 @@ public:
 
             // spell * potion >= success
             // potion >= success / spell
-            // potion >= ceil((1.0 * success)/spell);
+            // minimum potion needed --> potion >= ceil((1.0 * success)/spell);
             long long threshold = ceil((1.0*success) / spell);
 
+            // if even biggest potion(maxPotion) fails, we get 0 pairs
             if(threshold > maxPotion){
                 ans.push_back(0);
                 continue;
 
             }
+            // binary search -> find the first index where potion >= threshold
             int firstValid = binarySearch(potions, threshold);
 
+            // all potions beyond firstValid i.e from firstValid to end will be valid
             ans.push_back(m - firstValid);
         }
         return ans;
