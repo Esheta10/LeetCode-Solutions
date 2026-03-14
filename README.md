@@ -477,6 +477,7 @@
 | [0797-rabbits-in-forest](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
 | [0843-binary-trees-with-factors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0843-binary-trees-with-factors) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0854-making-a-large-island](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0875-koko-eating-bananas](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -789,6 +790,7 @@
 | [0792-binary-search](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
