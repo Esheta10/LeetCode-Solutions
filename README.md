@@ -801,6 +801,7 @@
 | [1631-path-with-minimum-effort](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1901-find-a-peak-element-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -1091,6 +1092,7 @@
 | [1635-number-of-good-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1642-water-bottles) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -1644,6 +1646,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1612-avoid-flood-in-the-city](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
