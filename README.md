@@ -1729,6 +1729,7 @@
 | [0891-score-after-flipping-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1009-complement-of-base-10-integer](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1418-fair-distribution-of-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
