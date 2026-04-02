@@ -10,66 +10,42 @@
  */
 class Solution {
 public:
-    // int lengthOfLinkedList(ListNode* head){
+    int getLengthOfLinkedList(ListNode* head){
 
-    //     int l = 0;
-    //     while(head != NULL){
-    //         l++;
-    //         head = head->next;
-    //     }
-    //     return l;
-    // }
+        int count = 0;
+        ListNode* curr = head;
+
+        while(curr != NULL){
+            count++;
+            curr = curr->next;
+        }
+        return count;
+    }
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         
-        // Two-Pass Solution
-        // int L = lengthOfLinkedList(head);
+        int L = getLengthOfLinkedList(head);
 
-        // if(L==n){
+        int travel_front = L - n;
 
-        //     ListNode* temp  = head->next;
-        //     delete(head);
-        //     return temp;
-        // }
-
-        // int travel_front = L-n;
-
-        // ListNode* prev = NULL;
-        // ListNode* temp = head;
-
-        // while(travel_front--){
-        //     prev = temp;
-        //     temp = temp->next;
-        // }
-        // prev->next = temp->next;
-        // delete(temp);
-        // return head;
-
-
-
-        // One-Pass Solution
-
-        ListNode* slow = head;
-        ListNode* fast = head;
-
-        for(int i=1;i<=n;i++){
-            fast = fast->next;
+        if(n == L){ // delete head node
+            ListNode* temp = head;
+            head = head->next;
+            delete temp;
+            return head;
         }
 
-        if(fast==NULL)
-            return head->next;
+        ListNode* temp = head;
+        ListNode* prev = NULL;
 
-
-        while(fast!=NULL && fast->next!=NULL)
-        {
-            slow = slow->next;
-            fast = fast->next;
+        while(travel_front--){
+            prev = temp;
+            temp = temp->next;
         }
-        ListNode* temp = slow->next;
-        slow->next = slow->next->next;
+
+        prev->next = temp->next;
+
         delete(temp);
 
-        return head; 
-
-
+        return head;
     }
 };
