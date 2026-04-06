@@ -18,6 +18,7 @@
 | [0141-linked-list-cycle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
@@ -180,6 +181,7 @@
 | [0139-word-break](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -2062,6 +2064,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0705-design-hashset) |
@@ -2321,4 +2324,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
