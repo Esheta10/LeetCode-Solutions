@@ -27,6 +27,7 @@
 | [0328-odd-even-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0706-design-hashmap) |
@@ -200,6 +201,7 @@
 | [0409-longest-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -2067,6 +2069,7 @@
 | [0146-lru-cache](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0460-lfu-cache](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0937-online-stock-span](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0937-online-stock-span) |
@@ -2328,4 +2331,5 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
