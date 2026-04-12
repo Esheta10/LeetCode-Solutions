@@ -18,33 +18,34 @@ public:
         if(l2 == NULL)
             return l1;
 
+        ListNode* result;
         if(l1->val <= l2->val){
-            l1->next = mergeTwoSortedLists(l1->next,l2);
-            return l1;
-        }else {
-            l2->next = mergeTwoSortedLists(l1,l2->next);
-            return l2;
+            result = l1;
+            result->next = mergeTwoSortedLists(l1->next, l2);
+        } else {
+            result = l2;
+            result->next = mergeTwoSortedLists(l1, l2->next);
         }
-        return NULL;
+        return result;
     }
-    ListNode* partitionAndMerge(int start,int end, vector<ListNode*>& lists){
+    ListNode* partitionAndMerge(int l, int r, vector<ListNode*>& lists){
 
-        if(start==end)
-            return lists[start];
-        
-        if(start > end)
+        if(l==r)
+            return lists[l];
+            
+        if(l > r)
             return NULL;
 
-        int mid = start + (end-start)/2;
-        ListNode* l1 = partitionAndMerge(start,mid,lists);
-        ListNode* l2 = partitionAndMerge(mid+1,end,lists);
+        int mid = l + (r-l)/2;
+        ListNode* l1 =  partitionAndMerge(l,mid,lists);
+        ListNode* l2 =  partitionAndMerge(mid+1,r,lists);
 
-        return mergeTwoSortedLists(l1,l2);
+        return mergeTwoSortedLists(l1, l2);
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         
         int n = lists.size();
 
-        return partitionAndMerge(0,n-1,lists);
+        return partitionAndMerge(0, n-1, lists);
     }
 };
