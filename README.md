@@ -358,6 +358,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0937-online-stock-span) |
@@ -482,6 +483,7 @@
 | [0648-replace-words](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0679-24-game](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0679-24-game) |
+| [0682-baseball-game](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0706-design-hashmap) |
@@ -1351,6 +1353,7 @@
 | [0258-add-digits](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0682-baseball-game](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1642-water-bottles) |
