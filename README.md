@@ -31,6 +31,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0622-design-circular-queue](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0725-split-linked-list-in-parts](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
@@ -477,6 +478,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0622-design-circular-queue](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -1832,6 +1834,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -2087,6 +2090,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0460-lfu-cache](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0937-online-stock-span](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0937-online-stock-span) |
