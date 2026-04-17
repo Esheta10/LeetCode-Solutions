@@ -21,12 +21,13 @@ public:
 
         vector<int> result;
 
-        while(q.empty() == false){
+        while(!q.empty()){
 
             int n = q.size();
             TreeNode* node = NULL;
 
             while(n--){
+
                 node = q.front();
                 q.pop();
 
