@@ -5,19 +5,19 @@ public:
         int n = nums.size();
         unordered_set<int> st;
 
-        long long windowSum = 0 , maxSum = 0;
+        long long windowSum = 0, maxSum = 0;
         int left = 0;
 
-        for(int right=0; right<n; right++){
+        for(int right = 0; right < n; right++){
 
-            // if duplicates found, shrink from left until its gone
+            // if duplicates found, shrink from left until it's gone
             while(st.find(nums[right]) != st.end()){
 
                 st.erase(nums[left]);
                 windowSum -= nums[left];
                 left++;
             }
-            
+
             // add new element
             st.insert(nums[right]);
             windowSum += nums[right];
@@ -31,6 +31,7 @@ public:
                 windowSum -= nums[left];
                 left++;
             }
+
         }
         return maxSum;
     }
