@@ -80,12 +80,12 @@ public:
     }
     
     bool isEmpty() {
-        return size == 0;
+        return front == -1;
     }
     
     bool isFull() {
         
-        return size == capacity;
+        return (rear + 1) % capacity == front;
     }
 };
 
