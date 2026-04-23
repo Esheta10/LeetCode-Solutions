@@ -6,9 +6,9 @@ public:
 
         if(n == 0)
             return {};
-
-        deque<int> deq;
-        vector<int> result;
+            
+        deque<int> deq; // to store the indices
+        vector<int> ans;
 
         for(int i=0; i<n; i++){
 
@@ -17,12 +17,12 @@ public:
 
             while(!deq.empty() && nums[i] > nums[deq.back()])
                 deq.pop_back();
-            
+
             deq.push_back(i);
 
             if(i >= k-1)
-                result.push_back(nums[deq.front()]);
+                ans.push_back(nums[deq.front()]);
         }
-        return result;
+        return ans;
     }
 };
