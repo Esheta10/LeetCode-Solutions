@@ -3,23 +3,21 @@ public:
     long long beautifulSubarrays(vector<int>& nums) {
         
         int n = nums.size();
-
-        unordered_map<int,int> mp;
+        unordered_map<int, int> mp; // prefixXOR ---> frequency
         mp[0] = 1;
 
-        long long currentXor = 0;
+        long long currXOR = 0;
         long long count = 0;
 
         for(int i=0; i<n; i++){
 
-            currentXor ^= nums[i];
+            currXOR ^= nums[i];
+            int need = currXOR ^ 0;
 
-            long long requiredXor = currentXor ^ 0;
+            if(mp.find(need) != mp.end())
+                count += mp[need];
 
-            if(mp.find(requiredXor) != mp.end())
-                count += mp[requiredXor];
-
-            mp[currentXor]++;
+            mp[currXOR]++;
         }
         return count;
     }
