@@ -2,21 +2,20 @@ class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
         
-        if(nums.empty())
-            return 0;
-
-        int longestStreak = 0;
+        int n = nums.size();
 
         unordered_set<int> st(nums.begin(), nums.end());
 
-        for(int num : st){
-
+        int longestStreak = 0;
+        for(int num: st){
+            // previous num nahi hai toh current element se streak banao
             if(st.find(num-1) == st.end()){
-                // currentNum ka previous value set pe nahi hai so start from here
+            
                 int currentNum = num;
                 int currentStreak = 1;
-
+                
                 while(st.find(currentNum + 1) != st.end()){
+                    // next num after currentNum available hai toh increase the streak
                         currentNum++;
                         currentStreak++;
                 }
