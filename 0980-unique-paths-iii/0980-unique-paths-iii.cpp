@@ -3,6 +3,8 @@ public:
     int m,n;
     int result;
     int nonObstacles;
+    
+    vector<vector<int>> directions = {{-1,0}, {1,0} , {0,-1}, {0, 1}};
     void backtrack(vector<vector<int>>& grid, int i, int j, int count){
 
         if(i<0 || j<0 || i>=m || j>=n || grid[i][j] == -1)
@@ -16,14 +18,22 @@ public:
             return;
         }  
 
-        grid[i][j] = -1;
+        grid[i][j] = -1; // visited element
 
-        if(i-1>=0 && grid[i-1][j] != -1) backtrack(grid, i-1, j, count+1);
-        if(i+1<m && grid[i+1][j] != -1) backtrack(grid, i+1, j, count+1);
-        if(j-1>=0 && grid[i][j-1] != -1) backtrack(grid, i, j-1, count+1);
-        if(j+1<n && grid[i][j+1] != -1) backtrack(grid, i, j+1, count+1);
+        // Backtracking logic
+        // if(i-1>=0 && grid[i-1][j] != -1) backtrack(grid, i-1, j, count+1); // UP
+        // if(i+1<m && grid[i+1][j] != -1) backtrack(grid, i+1, j, count+1); // DOWN
+        // if(j-1>=0 && grid[i][j-1] != -1) backtrack(grid, i, j-1, count+1); // LEFT
+        // if(j+1<n && grid[i][j+1] != -1) backtrack(grid, i, j+1, count+1); // RIGHT
 
-        grid[i][j] = 0;
+        for(vector<int> dir : directions){
+
+            int new_i = i + dir[0];
+            int new_j = j + dir[1];
+            backtrack(grid, new_i, new_j, count+1);
+        }
+
+        grid[i][j] = 0; // set the values back to 0 while backtracking and finding another possible path
 
     }
     int uniquePathsIII(vector<vector<int>>& grid) {
