@@ -544,6 +544,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0980-unique-paths-iii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -1650,6 +1651,7 @@
 | [0870-magic-squares-in-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0891-score-after-flipping-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [0980-unique-paths-iii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
@@ -1808,6 +1810,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0891-score-after-flipping-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0891-score-after-flipping-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0980-unique-paths-iii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1009-complement-of-base-10-integer](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1418-fair-distribution-of-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1418-fair-distribution-of-cookies) |
@@ -2196,6 +2199,7 @@
 | [0113-path-sum-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0679-24-game) |
+| [0980-unique-paths-iii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
