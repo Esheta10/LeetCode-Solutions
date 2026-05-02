@@ -1,22 +1,26 @@
 class Solution {
 public:
+    int n;
     vector<vector<int>> result;
-    void solve(vector<int>& nums,int i,vector<int>& temp)
-    {
-        if(i>=nums.size())
-        {
+    void backtrack(int i, vector<int>& nums, vector<int>& temp){
+
+        if(i == nums.size()){
             result.push_back(temp);
             return;
         }
-        temp.push_back(nums[i]);    //take
-        solve(nums,i+1,temp);   //trust
-        temp.pop_back();    //not-take
-        solve(nums,i+1,temp);   //trust
+
+        temp.push_back(nums[i]);    // CHOOSE
+        backtrack(i+1, nums, temp); // RECURSE
+        temp.pop_back();    // UN-CHOOSE
+        backtrack(i+1, nums, temp);
+
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int> temp;
         
-        solve(nums,0,temp);
+        n = nums.size();
+        vector<int> temp;
+
+        backtrack(0, nums, temp);
 
         return result;
     }
