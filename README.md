@@ -311,6 +311,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2634-minimum-common-value](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -737,6 +738,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1198,6 +1200,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2571-find-the-pivot-integer](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2571-find-the-pivot-integer) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
@@ -1373,6 +1376,7 @@
 | [2439-minimize-maximum-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2530-minimize-maximum-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1587,6 +1591,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -2248,6 +2253,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2305-fair-distribution-of-cookies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Enumeration
 |  |
 | ------- |
@@ -2411,6 +2417,7 @@
 | [0062-unique-paths](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
