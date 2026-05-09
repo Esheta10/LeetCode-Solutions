@@ -654,6 +654,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1901-find-a-peak-element-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -1414,6 +1415,7 @@
 | [1642-water-bottles](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1806-count-of-matches-in-tournament](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
@@ -1693,6 +1695,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2145-grid-game) |
