@@ -733,6 +733,7 @@
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2551-apply-operations-to-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1432,6 +1433,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2428-equal-row-and-column-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
