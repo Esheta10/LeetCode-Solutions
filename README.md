@@ -586,6 +586,7 @@
 | [1293-three-consecutive-odds](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
+| [1306-jump-game-iii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -2033,6 +2034,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+| [1306-jump-game-iii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -2086,6 +2088,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1306-jump-game-iii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
