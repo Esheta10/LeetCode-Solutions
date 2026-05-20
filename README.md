@@ -316,6 +316,7 @@
 | [2597-the-number-of-beautiful-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2634-minimum-common-value](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -753,6 +754,7 @@
 | [2634-minimum-common-value](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2643-row-with-maximum-ones](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -1879,6 +1881,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
