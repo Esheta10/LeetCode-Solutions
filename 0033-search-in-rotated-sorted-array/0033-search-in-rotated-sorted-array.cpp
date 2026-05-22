@@ -1,49 +1,54 @@
 class Solution {
 public:
-    int findPivot(vector<int>& nums, int left, int right){
+    int findPivot(vector<int>& nums, int n){
+
+        int left = 0;
+        int right = n-1;
 
         while(left < right){
 
-            int mid = left + (right - left)/2;
+            int mid = left + (right-left)/2;
 
-            if(nums[mid] > nums[right])
-                left = mid+1;   // pivot must be on right
-            else
-                right = mid; // right itself is pivot or may be it lies towards left
+            if(nums[mid] > nums[right]){
+                left = mid+1;
+            } else {
+                right = mid;
+            }
         }
-        return left;
+        return right;
     }
-    int binarySearch(vector<int>& nums, int target, int left, int right){
+    int binarySearch(vector<int>& nums, int left, int right, int target){
 
-        while(left <= right){
+            int idx = -1;
+            while(left <= right){
 
-            int mid = left + (right - left)/2;
+                int mid = left + (right - left)/2;
 
-            if(nums[mid] == target)
-                return mid;
-            else if(nums[mid] < target)
-                left = mid + 1;
-            else
-                right = mid - 1;
-        }
-        return -1;
+                if(nums[mid] == target){
+                    idx = mid;
+                    break;
+                }
+                else if(nums[mid] < target)
+                    left = mid+1;
+                else
+                    right = mid-1;
+            }
+         return idx;
     }
     int search(vector<int>& nums, int target) {
         
         int n = nums.size();
 
-        int pivot = findPivot(nums, 0, n-1);
+        int pivot_index = findPivot(nums,n);
 
-        if(nums[pivot] == target)
-            return pivot;
 
-        int idx = -1;
-        idx = binarySearch(nums, target, 0, pivot-1);
+       
+        int idx = binarySearch(nums, 0, pivot_index-1, target);
 
         if(idx != -1)
             return idx;
-        
-        idx = binarySearch(nums, target, pivot+1, n-1);
+
+        idx = binarySearch(nums, pivot_index, n-1, target);
 
         return idx;
     }
