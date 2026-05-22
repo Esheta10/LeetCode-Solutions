@@ -12,8 +12,8 @@ public:
             int mid = left + (right - left)/2;
 
             if(nums[mid] == target){
-                leftMost = mid;
-                right = mid-1;
+                leftMost = mid; // potential answer 
+                right = mid-1; // fir bhi ek baar aur piche dekh lo i.e. left side
             } else if(nums[mid] < target){
                 left = mid+1;
             } else {
@@ -34,8 +34,8 @@ public:
             int mid = left + (right - left)/2;
 
             if(nums[mid] == target){
-                rightMost = mid;
-                left = mid+1;
+                rightMost = mid; // potential answer
+                left = mid+1; // fir bhi ek baar aur right side dekh lo
             } else if(nums[mid] > target){
                 right = mid-1;
             } else {
