@@ -33,7 +33,6 @@ public:
 
                 if(node->left != NULL)
                     q.push(node->left);
-
                 if(node->right != NULL)
                     q.push(node->right);
             }
