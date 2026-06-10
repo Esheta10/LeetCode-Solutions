@@ -12,7 +12,7 @@
 class Solution {
 public:
     vector<vector<int>> result;
-    void fill(TreeNode* root, int sum,vector<int> temp, int& targetSum){
+    void findNodes(TreeNode* root, int sum, vector<int> temp, int &targetSum){
 
         if(root == NULL)
             return;
@@ -20,23 +20,27 @@ public:
         sum += root->val;
         temp.push_back(root->val);
 
+        // reach leaf then check
         if(root->left == NULL && root->right == NULL){
-            if(sum == targetSum){
-                result.push_back(temp);
-            }
-            return;
+
+                if(sum == targetSum){
+                    result.push_back(temp);
+                }
+                return;
         }
-        fill(root->left,sum,temp,targetSum);
-        fill(root->right,sum,temp,targetSum);
-        
+
+        findNodes(root->left, sum, temp, targetSum);
+        findNodes(root->right,sum, temp, targetSum);
     }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         
-        int sum = 0;
+        if(root == NULL)
+            return {};
+        
         vector<int> temp;
-        fill(root,sum,temp,targetSum);
+        int sum = 0;
+        findNodes(root, sum, temp, targetSum);
 
         return result;
-
     }
 };
