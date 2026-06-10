@@ -11,25 +11,31 @@
  */
 class Solution {
 public:
-    
-    bool fill(TreeNode* root, int sum, int& targetSum){
+    bool findNodes(TreeNode* root, int sum, int &targetSum){
 
         if(root == NULL)
             return false;
 
         sum += root->val;
+        if(root->left == NULL && root->right == NULL){
 
-        if(root->left==NULL && root->right==NULL){
             if(sum == targetSum)
                 return true;
+
+            return false;
         }
-           
-        return fill(root->left,sum,targetSum) || fill(root->right,sum,targetSum);
-    }
+
+        bool leftSide = findNodes(root->left, sum, targetSum);
+        bool rightSide = findNodes(root->right, sum, targetSum);
+
+        return leftSide || rightSide;
+   }
     bool hasPathSum(TreeNode* root, int targetSum) {
         
         int sum = 0;
-        return fill(root,sum,targetSum);
-        
+
+        bool result = findNodes(root, sum, targetSum);
+
+        return result;
     }
 };
