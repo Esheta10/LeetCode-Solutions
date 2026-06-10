@@ -11,38 +11,44 @@
  */
 class Solution {
 public:
-    TreeNode* add(TreeNode* root,int val, int depth,int curr){
+    TreeNode* dfs(TreeNode* root, int val, int depth, int curr){
 
         if(root == NULL)
             return NULL;
-        
+
         if(curr == depth-1){
-            TreeNode* leftTemp = root->left;
-            TreeNode* rightTemp = root->right;
+
+            TreeNode* temp_left = root->left;
+            TreeNode* temp_right = root->right;
 
             root->left = new TreeNode(val);
             root->right = new TreeNode(val);
 
-            root->left->left = leftTemp;
-            root->right->right = rightTemp;
+            root->left->left = temp_left;
+            root->right->right = temp_right;
 
             return root;
         }
 
-        root->left = add(root->left, val, depth, curr+1);
-        root->right = add(root->right,val,depth,curr+1);
+        root->left = dfs(root->left, val, depth, curr+1);
+        root->right = dfs(root->right, val, depth, curr+1);
 
         return root;
     }
     TreeNode* addOneRow(TreeNode* root, int val, int depth) {
         
+        if(root == NULL)
+            return NULL;
+
         if(depth == 1){
+
             TreeNode* newRoot = new TreeNode(val);
             newRoot->left = root;
+
             return newRoot;
         }
 
         int curr = 1;
-        return add(root,val,depth,curr);
+        return dfs(root, val, depth, curr);
     }
 };
