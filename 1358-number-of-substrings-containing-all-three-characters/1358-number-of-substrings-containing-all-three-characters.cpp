@@ -12,7 +12,7 @@ public:
 
             // shrink from left if the window is valid
             while(freq[0] > 0 && freq[1] > 0 && freq[2] > 0){
-                    total += n - right;
+                    total += n - right; // if the current window is valid, every character extension to the right of it will also remain valid
 
                     freq[s[left] - 'a']--;
                     left++;
