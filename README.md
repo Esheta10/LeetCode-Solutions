@@ -788,6 +788,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2906-construct-product-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [2974-minimum-number-game](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -1481,6 +1482,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2974-minimum-number-game](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3379-transformed-array) |
@@ -1651,6 +1653,7 @@
 | [2784-check-if-array-is-good](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2974-minimum-number-game](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1703,6 +1706,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
+| [2974-minimum-number-game](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
