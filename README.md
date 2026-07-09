@@ -782,6 +782,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
