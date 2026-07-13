@@ -1250,6 +1250,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
+| [2652-sum-multiples](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
