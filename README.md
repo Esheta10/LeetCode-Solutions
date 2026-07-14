@@ -689,6 +689,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2126-destroying-asteroids](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -1063,6 +1064,7 @@
 | [2044-number-of-wonderful-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2044-number-of-wonderful-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2128-reverse-prefix-of-word](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
