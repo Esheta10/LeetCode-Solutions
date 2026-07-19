@@ -1086,6 +1086,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/Esheta10/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3019-number-of-changing-keys](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3019-number-of-changing-keys) |
 | [3055-maximum-odd-binary-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
