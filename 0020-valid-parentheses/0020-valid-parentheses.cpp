@@ -4,16 +4,16 @@ public:
         
         stack<char> st;
 
-        for(char &ch: s){
+        for(char ch: s){
 
-            if(ch == '(' || ch == '{' || ch == '[')
+            if(ch == '(' || ch == '[' || ch == '{')
                 st.push(ch);
-            else {
+            else{
+
                 if(st.empty())
-                    return false; // nothing opened -> mismatch
-                
+                    return false; // agar closing bracket hai aur stack empty hai, toh invalid case
+
                 char top = st.top();
-                st.pop();
 
                 if(ch == ')' && top != '(')
                     return false;
@@ -21,8 +21,10 @@ public:
                     return false;
                 if(ch == ']' && top != '[')
                     return false;
+
+                st.pop();
             }
         }
-        return st.empty(); // any unclosed openers left -> return false
+        return st.empty();
     }
 };
