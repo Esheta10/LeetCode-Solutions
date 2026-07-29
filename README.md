@@ -658,6 +658,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1813-maximum-erasure-value](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1231,6 +1232,7 @@
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
