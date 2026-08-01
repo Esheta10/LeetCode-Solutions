@@ -978,6 +978,7 @@
 | [0139-word-break](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0171-excel-sheet-column-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
@@ -1182,6 +1183,7 @@
 | [0069-sqrtx](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0202-happy-number) |
