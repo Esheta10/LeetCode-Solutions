@@ -228,6 +228,7 @@
 | [0692-top-k-frequent-words](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+| [0748-shortest-completing-word](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
@@ -544,6 +545,7 @@
 | [0735-asteroid-collision](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0748-shortest-completing-word](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0777-toeplitz-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0777-toeplitz-matrix) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1020,6 +1022,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0807-custom-sort-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0808-number-of-matching-subsequences) |
