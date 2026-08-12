@@ -256,6 +256,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1189-maximum-number-of-balloons](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1217-relative-sort-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1217-relative-sort-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1043,6 +1044,7 @@
 | [1048-longest-string-chain](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1143-longest-common-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1197-parsing-a-boolean-expression](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -1562,6 +1564,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
