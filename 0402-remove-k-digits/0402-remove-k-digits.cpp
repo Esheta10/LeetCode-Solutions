@@ -14,9 +14,10 @@ public:
             st.push_back(digit);
         }
 
-        // trim remaining k from end
-        while(k-- > 0){
+        // trim remaining k from end --> agar number ascending ordr mein ho and k exist karta ho
+        while(k> 0){
             st.pop_back();
+            k--;
         }
 
         // build result, skip leading zeros
