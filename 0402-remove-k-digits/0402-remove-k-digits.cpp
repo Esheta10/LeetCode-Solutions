@@ -7,7 +7,7 @@ public:
         for(char digit : num){
 
             while(!st.empty() && k>0 && st.back() > digit){
-                st.pop_back();
+                st.pop_back(); // remove larger element
                 k--;
             }
 
@@ -19,6 +19,7 @@ public:
             st.pop_back();
         }
 
+        // build result, skip leading zeros
         string result = "";
         bool leadingZeros = true;
 
