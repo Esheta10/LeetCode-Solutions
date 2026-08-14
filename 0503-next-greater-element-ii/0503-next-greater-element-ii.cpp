@@ -3,19 +3,19 @@ public:
     vector<int> nextGreaterElements(vector<int>& nums) {
         
         int n = nums.size();
-        vector<int> ans(n);
+        vector<int> ans(2*n);
         stack<int> st;
 
         for(int i = 2*n-1; i>=0; i--){
+            
 
+            // pop karo elements jo current se chote ya barabar ho
             while(!st.empty() && st.top() <= nums[i%n])
                 st.pop();
 
-            if(i<n)
-                ans[i] = st.empty() ? -1 : st.top();
-
+            ans[i] = st.empty() ? -1 : st.top();
             st.push(nums[i%n]);
         }
-        return ans;
+        return vector<int>(ans.begin(), ans.begin() + n);
     }
 };
