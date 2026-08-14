@@ -16,6 +16,7 @@ public:
             ans[i] = st.empty() ? -1 : st.top();
             st.push(nums[i%n]);
         }
+        // End mein sirf pehle n elements ko extract karke return kar diya
         return vector<int>(ans.begin(), ans.begin() + n);
     }
 };
