@@ -3,20 +3,18 @@ public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {
         
         int n = temperatures.size();
+        stack<int> st; // we are pushing indices into the stack, as that will help us in determining 
+        // difference in tempeartues
         vector<int> result(n);
 
-        stack<pair<int,int>> st;
-
         for(int i=n-1; i>=0; i--){
-            
-            int span = 1;
-            while(!st.empty() && st.top().first <= temperatures[i]){
-                    span += st.top().second;
-                    st.pop();
-            }
-            result[i] = st.empty() ? 0 : span;
 
-            st.push({temperatures[i], span});
+            while(!st.empty() && temperatures[st.top()] <= temperatures[i])
+                st.pop();
+
+            result[i] = st.empty() ? 0 : st.top() - i;
+
+            st.push(i); // push the current index into the stack
         }
         return result;
     }
