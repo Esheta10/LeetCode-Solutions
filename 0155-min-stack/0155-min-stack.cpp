@@ -1,24 +1,24 @@
 class MinStack {
-private:
+public:
     stack<int> st;
     stack<int> min_st;
-public:
     MinStack() {
-    }
-    
-    void push(int val) {
         
-        st.push(val);
-        min_st.push(min_st.empty() ? val : min(val, min_st.top()));
     }
     
-    void pop() {
+    void push(int value) {
+        
+        st.push(value);
+        min_st.push(min_st.empty() ? value : min(min_st.top(), value));
+    }
+    
+    void pop() {    
         st.pop();
         min_st.pop();
     }
     
     int top() {
-       return st.top();
+        return st.top();
     }
     
     int getMin() {
@@ -29,7 +29,7 @@ public:
 /**
  * Your MinStack object will be instantiated and called as such:
  * MinStack* obj = new MinStack();
- * obj->push(val);
+ * obj->push(value);
  * obj->pop();
  * int param_3 = obj->top();
  * int param_4 = obj->getMin();
