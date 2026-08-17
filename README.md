@@ -222,6 +222,7 @@
 | [0567-permutation-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0652-find-duplicate-subtrees](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0652-find-duplicate-subtrees) |
@@ -528,6 +529,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
@@ -1019,6 +1021,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0649-dota2-senate) |
