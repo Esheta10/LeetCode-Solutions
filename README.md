@@ -265,6 +265,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1319-unique-number-of-occurrences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -608,6 +609,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1284-four-divisors](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -1503,6 +1505,7 @@
 | [0735-asteroid-collision](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1642-water-bottles](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1806-count-of-matches-in-tournament](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
@@ -1792,6 +1795,7 @@
 | [1036-rotting-oranges](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1253-sort-the-matrix-diagonally) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1396-count-servers-that-communicate](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Esheta10/LeetCode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
