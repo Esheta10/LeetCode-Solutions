@@ -243,6 +243,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0929-unique-email-addresses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0952-word-subsets) |
@@ -576,6 +577,7 @@
 | [0912-sort-an-array](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0929-unique-email-addresses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -1041,6 +1043,7 @@
 | [0874-backspace-string-compare](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0929-unique-email-addresses](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0935-orderly-queue](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0935-orderly-queue) |
 | [0952-word-subsets](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Esheta10/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
